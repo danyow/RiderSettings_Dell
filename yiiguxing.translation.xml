@@ -1,13 +1,19 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Remove the spawner component from the entity." />
+      <item value="Instantiate flies along with the spawner entities." />
+      <item value="Get a copy of the entity array. Don't directly use the iterator -- we're going to remove the buffer components, and it will invalidate the iterator." />
+      <item value="Enumerate all the spawners." />
+      <item value="Fly entity archetype used for instantiation" />
+      <item value="Used to enumerate spawner components" />
       <item value="过期" />
       <item value="Layer Mask" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1" />
+        <entry key="CHINESE" value="6" />
+        <entry key="ENGLISH" value="7" />
       </map>
     </option>
   </component>
