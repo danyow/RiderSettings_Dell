@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Butterfly" />
+      <item value="This project is still under heavy development. Please don't expect that it works correctly on your machine." />
+      <item value="is an example of use of Unity ECS (Entity Component System), C Job System and the Burst compiler for implementing special effects." />
+      <item value="由tom的firefly升级上来的" />
+      <item value="Upgrade" />
+      <item value="Space inserts selected suggestion when completion popup is focused (blue selection)" />
       <item value="Remove the spawner component from the entity." />
       <item value="Instantiate flies along with the spawner entities." />
       <item value="Get a copy of the entity array. Don't directly use the iterator -- we're going to remove the buffer components, and it will invalidate the iterator." />
@@ -12,8 +18,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6" />
-        <entry key="ENGLISH" value="7" />
+        <entry key="CHINESE" value="11" />
+        <entry key="ENGLISH" value="12" />
       </map>
     </option>
   </component>
