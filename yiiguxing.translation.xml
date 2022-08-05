@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Nested Statements" />
+      <item value="General" />
+      <item value="Continuous Line Indent Multiplier" />
+      <item value="Indent Style" />
+      <item value="stagger Frame" />
+      <item value="错开" />
+      <item value="Frame" />
+      <item value="off Frame" />
+      <item value="offset Frame" />
+      <item value="错帧" />
       <item value="indices" />
       <item value="Butterfly" />
       <item value="This project is still under heavy development. Please don't expect that it works correctly on your machine." />
@@ -19,8 +29,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12" />
-        <entry key="ENGLISH" value="13" />
+        <entry key="CHINESE" value="21" />
+        <entry key="ENGLISH" value="22" />
       </map>
     </option>
   </component>
