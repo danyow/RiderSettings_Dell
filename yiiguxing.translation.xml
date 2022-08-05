@@ -1,6 +1,19 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="When formatting only a part of the file, try to take the indent from elements on previous lines (previous statementsclass membersetc). If turned off, the indent will be the parent element's (usually the parent block) indent plus the indent from the indent settings." />
+      <item value="Use previous element's indent on partial format" />
+      <item value="Place comments at the first column when commenting out code." />
+      <item value="Place comments at the first column when commenting out code. Otherwise, comments will use the indentation level of the commented code." />
+      <item value="Don't indent comments started at first column" />
+      <item value="Indent Type Constraints" />
+      <item value="Statement Labels" />
+      <item value="Outdent Statement Labels" />
+      <item value="Indent Case From Switch" />
+      <item value="Indent other preprocessor directives" />
+      <item value="Indent Region End Region" />
+      <item value="Indent If Else Elif Endif" />
+      <item value="Preprocessor Directives" />
       <item value="checked" />
       <item value="Indent Other Parenthesis And Brackets" />
       <item value="Indent Type Arguments Angles" />
@@ -38,8 +51,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="30" />
-        <entry key="ENGLISH" value="31" />
+        <entry key="CHINESE" value="44" />
+        <entry key="ENGLISH" value="45" />
       </map>
     </option>
   </component>
