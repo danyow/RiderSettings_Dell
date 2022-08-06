@@ -5,7 +5,34 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Simple Switch Sections" />
+      <item value="End Comments" />
+      <item value="Binary Expressions" />
+      <item value="大于" />
+      <item value="I Invocations Of The Same Method" />
+      <item value="Nested Ternary Operators" />
       <item value="Property Patterns" />
+      <item value="Other Assignments And Initializers" />
+      <item value="Variables And Local Constants" />
+      <item value="I Multiline Method Signature" />
+      <item value="Simple Methods Operators Delegates" />
+      <item value="Properties And Events" />
+      <item value="Fields And Constants" />
+      <item value="When formatting some code, also fix column alignment in adjacent lines if needed" />
+      <item value="Align Similar Code In Columns" />
+      <item value="Fix Column Alignment In Adjacent Lines" />
+      <item value="Outdent Commas" />
+      <item value="Type Parameters Constraints" />
+      <item value="Type Parameters List" />
+      <item value="Multiple Declarations" />
+      <item value="For Statement Header" />
+      <item value="Statement Conditions Inside Parenthesis" />
+      <item value="Other Expressions" />
+      <item value="Tuple Components" />
+      <item value="Call Arguments By Left" />
+      <item value="Anonymous Method Body" />
+      <item value="Outdent Binary Patterns" />
+      <item value="Binary Patterns" />
       <item value="Switch Expressions" />
       <item value="Array Object And Collection Initializer" />
       <item value="Dots In Chained Method Calls" />
@@ -13,7 +40,6 @@
       <item value="虚假" />
       <item value="Chained Method Calls" />
       <item value="some Operand" />
-      <item value="Binary Expressions" />
       <item value="Linq Query" />
       <item value="List of base classes and interfaces" />
       <item value="Method Parameters" />
@@ -29,37 +55,11 @@
       <item value="Place comments at the first column when commenting out code. Otherwise, comments will use the indentation level of the commented code." />
       <item value="Don't indent comments started at first column" />
       <item value="Indent Type Constraints" />
-      <item value="Statement Labels" />
-      <item value="Outdent Statement Labels" />
-      <item value="Indent Case From Switch" />
-      <item value="Indent other preprocessor directives" />
-      <item value="Indent Region End Region" />
-      <item value="Indent If Else Elif Endif" />
-      <item value="Preprocessor Directives" />
-      <item value="checked" />
-      <item value="Indent Other Parenthesis And Brackets" />
-      <item value="Indent Type Arguments Angles" />
-      <item value="I Indent Type Parameters Angles" />
-      <item value="Indent Statement If While For Etc Parenthesis" />
-      <item value="Indent Method Calls Parenthesis" />
-      <item value="Indent Method Declarations Parenthesis" />
-      <item value="Use Continuous Line Indent Inside Parenthesis" />
-      <item value="Parenthesis" />
-      <item value="Nested Statements" />
-      <item value="General" />
-      <item value="Continuous Line Indent Multiplier" />
-      <item value="Indent Style" />
-      <item value="stagger Frame" />
-      <item value="错开" />
-      <item value="Frame" />
-      <item value="off Frame" />
-      <item value="offset Frame" />
-      <item value="错帧" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
-        <entry key="ENGLISH" value="63" />
+        <entry key="CHINESE" value="89" />
+        <entry key="ENGLISH" value="90" />
       </map>
     </option>
   </component>
