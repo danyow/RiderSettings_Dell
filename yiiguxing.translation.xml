@@ -5,7 +5,10 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Parenthesis" />
+      <item value="翻译" />
       <item value="Indent style" />
+      <item value="Tab Indents Alignment" />
       <item value="partial" />
       <item value="Blank Lines In Declarations" />
       <item value="Before single-line comment" />
@@ -52,14 +55,11 @@
       <item value="Call Arguments By Left" />
       <item value="Anonymous Method Body" />
       <item value="Outdent Binary Patterns" />
-      <item value="Binary Patterns" />
-      <item value="Switch Expressions" />
-      <item value="Array Object And Collection Initializer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="110" />
-        <entry key="ENGLISH" value="111" />
+        <entry key="CHINESE" value="113" />
+        <entry key="ENGLISH" value="114" />
       </map>
     </option>
   </component>
