@@ -1,6 +1,28 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="1654" />
+    <option name="newTranslationDialogY" value="627" />
+    <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Property Patterns" />
+      <item value="Switch Expressions" />
+      <item value="Array Object And Collection Initializer" />
+      <item value="Dots In Chained Method Calls" />
+      <item value="imitation" />
+      <item value="虚假" />
+      <item value="Chained Method Calls" />
+      <item value="some Operand" />
+      <item value="Binary Expressions" />
+      <item value="Linq Query" />
+      <item value="List of base classes and interfaces" />
+      <item value="Method Parameters" />
+      <item value="Allow alignment even if construct is located too far to the right, more than 23 of `Hard wrap at` limit" />
+      <item value="Align even if the resulting indentation is too large" />
+      <item value="Align even if the resulting indentation is tool large" />
+      <item value="How To Align When Tabs Are Used For Indents" />
+      <item value="Align Multiline Constructs" />
+      <item value="Indent Braces Inside Statement Conditions" />
       <item value="When formatting only a part of the file, try to take the indent from elements on previous lines (previous statementsclass membersetc). If turned off, the indent will be the parent element's (usually the parent block) indent plus the indent from the indent settings." />
       <item value="Use previous element's indent on partial format" />
       <item value="Place comments at the first column when commenting out code." />
@@ -33,26 +55,11 @@
       <item value="off Frame" />
       <item value="offset Frame" />
       <item value="错帧" />
-      <item value="indices" />
-      <item value="Butterfly" />
-      <item value="This project is still under heavy development. Please don't expect that it works correctly on your machine." />
-      <item value="is an example of use of Unity ECS (Entity Component System), C Job System and the Burst compiler for implementing special effects." />
-      <item value="由tom的firefly升级上来的" />
-      <item value="Upgrade" />
-      <item value="Space inserts selected suggestion when completion popup is focused (blue selection)" />
-      <item value="Remove the spawner component from the entity." />
-      <item value="Instantiate flies along with the spawner entities." />
-      <item value="Get a copy of the entity array. Don't directly use the iterator -- we're going to remove the buffer components, and it will invalidate the iterator." />
-      <item value="Enumerate all the spawners." />
-      <item value="Fly entity archetype used for instantiation" />
-      <item value="Used to enumerate spawner components" />
-      <item value="过期" />
-      <item value="Layer Mask" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="44" />
-        <entry key="ENGLISH" value="45" />
+        <entry key="CHINESE" value="62" />
+        <entry key="ENGLISH" value="63" />
       </map>
     </option>
   </component>
