@@ -5,6 +5,14 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="partial" />
+      <item value="Blank Lines In Declarations" />
+      <item value="Before single-line comment" />
+      <item value="Inside" />
+      <item value="Around region" />
+      <item value="Blank Lines" />
+      <item value="Braces Layout" />
+      <item value="statement" />
       <item value="Empty braces formatting" />
       <item value="Allow comment after '{'" />
       <item value="Expressions (initializers, switch expressions, patterns) Use continuous line indent inside expression braces" />
@@ -15,7 +23,6 @@
       <item value="Method declaration" />
       <item value="Indent inside namespace declaration" />
       <item value="Type and namespace declaration" />
-      <item value="Braces Layout" />
       <item value="Upper Camel Case" />
       <item value="Simple Switch Sections" />
       <item value="End Comments" />
@@ -48,18 +55,11 @@
       <item value="Switch Expressions" />
       <item value="Array Object And Collection Initializer" />
       <item value="Dots In Chained Method Calls" />
-      <item value="imitation" />
-      <item value="虚假" />
-      <item value="Chained Method Calls" />
-      <item value="some Operand" />
-      <item value="Linq Query" />
-      <item value="List of base classes and interfaces" />
-      <item value="Method Parameters" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="101" />
-        <entry key="ENGLISH" value="102" />
+        <entry key="CHINESE" value="109" />
+        <entry key="ENGLISH" value="110" />
       </map>
     </option>
   </component>
