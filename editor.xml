@@ -14,6 +14,9 @@
     <option name="IS_WHEEL_FONTCHANGE_PERSISTENT" value="true" />
     <option name="INSERT_PARENTHESES_AUTOMATICALLY" value="true" />
   </component>
+  <component name="InlayHintsSettings">
+    <option name="enabled" value="false" />
+  </component>
   <component name="JSEditorOptions">
     <option name="ESCAPE_PASTED_TEXT" value="false" />
     <option name="CONVERT_HTML_TO_JSX" value="false" />
