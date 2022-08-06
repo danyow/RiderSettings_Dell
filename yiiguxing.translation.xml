@@ -1,14 +1,65 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="1654" />
+    <option name="newTranslationDialogY" value="627" />
+    <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="wait" />
-      <item value="未知" />
-      <item value="Layer Mask" />
+      <item value="Other Indents" />
+      <item value="Parenthesis" />
+      <item value="翻译" />
+      <item value="Indent style" />
+      <item value="Tab Indents Alignment" />
+      <item value="partial" />
+      <item value="Blank Lines In Declarations" />
+      <item value="Before single-line comment" />
+      <item value="Inside" />
+      <item value="Around region" />
+      <item value="Blank Lines" />
+      <item value="Braces Layout" />
+      <item value="statement" />
+      <item value="Empty braces formatting" />
+      <item value="Allow comment after '{'" />
+      <item value="Expressions (initializers, switch expressions, patterns) Use continuous line indent inside expression braces" />
+      <item value="Block under &quot;case&quot; label" />
+      <item value="Accessor declaration" />
+      <item value="Property declaration" />
+      <item value="Lambda and delegate (anonymous method declaration)" />
+      <item value="Method declaration" />
+      <item value="Indent inside namespace declaration" />
+      <item value="Type and namespace declaration" />
+      <item value="Upper Camel Case" />
+      <item value="Simple Switch Sections" />
+      <item value="End Comments" />
+      <item value="Binary Expressions" />
+      <item value="大于" />
+      <item value="I Invocations Of The Same Method" />
+      <item value="Nested Ternary Operators" />
+      <item value="Property Patterns" />
+      <item value="Other Assignments And Initializers" />
+      <item value="Variables And Local Constants" />
+      <item value="I Multiline Method Signature" />
+      <item value="Simple Methods Operators Delegates" />
+      <item value="Properties And Events" />
+      <item value="Fields And Constants" />
+      <item value="When formatting some code, also fix column alignment in adjacent lines if needed" />
+      <item value="Align Similar Code In Columns" />
+      <item value="Fix Column Alignment In Adjacent Lines" />
+      <item value="Outdent Commas" />
+      <item value="Type Parameters Constraints" />
+      <item value="Type Parameters List" />
+      <item value="Multiple Declarations" />
+      <item value="For Statement Header" />
+      <item value="Statement Conditions Inside Parenthesis" />
+      <item value="Other Expressions" />
+      <item value="Tuple Components" />
+      <item value="Call Arguments By Left" />
+      <item value="Anonymous Method Body" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2" />
+        <entry key="CHINESE" value="114" />
+        <entry key="ENGLISH" value="115" />
       </map>
     </option>
   </component>
