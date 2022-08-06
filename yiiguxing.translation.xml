@@ -5,6 +5,18 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Empty braces formatting" />
+      <item value="Allow comment after '{'" />
+      <item value="Expressions (initializers, switch expressions, patterns) Use continuous line indent inside expression braces" />
+      <item value="Block under &quot;case&quot; label" />
+      <item value="Accessor declaration" />
+      <item value="Property declaration" />
+      <item value="Lambda and delegate (anonymous method declaration)" />
+      <item value="Method declaration" />
+      <item value="Indent inside namespace declaration" />
+      <item value="Type and namespace declaration" />
+      <item value="Braces Layout" />
+      <item value="Upper Camel Case" />
       <item value="Simple Switch Sections" />
       <item value="End Comments" />
       <item value="Binary Expressions" />
@@ -43,23 +55,11 @@
       <item value="Linq Query" />
       <item value="List of base classes and interfaces" />
       <item value="Method Parameters" />
-      <item value="Allow alignment even if construct is located too far to the right, more than 23 of `Hard wrap at` limit" />
-      <item value="Align even if the resulting indentation is too large" />
-      <item value="Align even if the resulting indentation is tool large" />
-      <item value="How To Align When Tabs Are Used For Indents" />
-      <item value="Align Multiline Constructs" />
-      <item value="Indent Braces Inside Statement Conditions" />
-      <item value="When formatting only a part of the file, try to take the indent from elements on previous lines (previous statementsclass membersetc). If turned off, the indent will be the parent element's (usually the parent block) indent plus the indent from the indent settings." />
-      <item value="Use previous element's indent on partial format" />
-      <item value="Place comments at the first column when commenting out code." />
-      <item value="Place comments at the first column when commenting out code. Otherwise, comments will use the indentation level of the commented code." />
-      <item value="Don't indent comments started at first column" />
-      <item value="Indent Type Constraints" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="89" />
-        <entry key="ENGLISH" value="90" />
+        <entry key="CHINESE" value="101" />
+        <entry key="ENGLISH" value="102" />
       </map>
     </option>
   </component>
