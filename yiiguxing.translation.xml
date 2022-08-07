@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Dis Render" />
       <item value="Blur Camera Caller" />
       <item value="Other Indents" />
       <item value="Parenthesis" />
@@ -54,12 +55,11 @@
       <item value="Statement Conditions Inside Parenthesis" />
       <item value="Other Expressions" />
       <item value="Tuple Components" />
-      <item value="Call Arguments By Left" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="115" />
-        <entry key="ENGLISH" value="116" />
+        <entry key="CHINESE" value="116" />
+        <entry key="ENGLISH" value="117" />
       </map>
     </option>
   </component>
