@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Returns true if the other rectangle overlaps this one. If allowInverse is present and true, the widths and heights of the Rects are allowed to take negative values (ie, the min value is greater than the max), and the test will still work." />
       <item value="计算" />
       <item value="Gets the size of the Sampling." />
       <item value="Get Sampling Size" />
@@ -54,16 +55,15 @@
       <item value="Properties And Events" />
       <item value="Fields And Constants" />
       <item value="When formatting some code, also fix column alignment in adjacent lines if needed" />
-      <item value="Align Similar Code In Columns" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="124" />
-        <entry key="ENGLISH" value="124" />
+        <entry key="ENGLISH" value="125" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1659445411282" />
+    <option name="lastTrimTime" value="1659966753536" />
   </component>
 </application>
