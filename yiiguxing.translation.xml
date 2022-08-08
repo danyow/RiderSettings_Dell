@@ -5,18 +5,6 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="Returns true if the other rectangle overlaps this one. If allowInverse is present and true, the widths and heights of the Rects are allowed to take negative values (ie, the min value is greater than the max), and the test will still work." />
-      <item value="计算" />
-      <item value="Gets the size of the Sampling." />
-      <item value="Get Sampling Size" />
-      <item value="Closest Power Of Two" />
-      <item value="过期" />
-      <item value="Gets a global texture property for all shaders previously set using SetGlobalTexture." />
-      <item value="Default element of a render texture." />
-      <item value="Types of data that can be encapsulated within a render texture" />
-      <item value="Add a &quot;set global shader texture property&quot; command, referencing a RenderTexture." />
-      <item value="Dis Render" />
-      <item value="Blur Camera Caller" />
       <item value="Other Indents" />
       <item value="Parenthesis" />
       <item value="翻译" />
@@ -55,15 +43,27 @@
       <item value="Properties And Events" />
       <item value="Fields And Constants" />
       <item value="When formatting some code, also fix column alignment in adjacent lines if needed" />
+      <item value="Align Similar Code In Columns" />
+      <item value="Fix Column Alignment In Adjacent Lines" />
+      <item value="Outdent Commas" />
+      <item value="Type Parameters Constraints" />
+      <item value="Type Parameters List" />
+      <item value="Multiple Declarations" />
+      <item value="For Statement Header" />
+      <item value="Statement Conditions Inside Parenthesis" />
+      <item value="Other Expressions" />
+      <item value="Tuple Components" />
+      <item value="Call Arguments By Left" />
+      <item value="Anonymous Method Body" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="124" />
-        <entry key="ENGLISH" value="125" />
+        <entry key="CHINESE" value="114" />
+        <entry key="ENGLISH" value="115" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1659966753536" />
+    <option name="lastTrimTime" value="1659445411282" />
   </component>
 </application>
