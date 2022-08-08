@@ -6,6 +6,12 @@
     <option name="SPACES_AROUND_KEY_VALUE_DELIMITER" value="true" />
     <option name="KEEP_BLANK_LINES" value="true" />
   </Properties>
+  <clang-format>
+    <option name="ENABLED" value="false" />
+  </clang-format>
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
   <stylecop>
     <option name="ENABLED" value="true" />
   </stylecop>
