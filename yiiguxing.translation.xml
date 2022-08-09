@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Persistent allocation." />
+      <item value="Invalid allocation." />
       <item value="Other Indents" />
       <item value="Parenthesis" />
       <item value="翻译" />
@@ -53,13 +55,11 @@
       <item value="Statement Conditions Inside Parenthesis" />
       <item value="Other Expressions" />
       <item value="Tuple Components" />
-      <item value="Call Arguments By Left" />
-      <item value="Anonymous Method Body" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="114" />
-        <entry key="ENGLISH" value="115" />
+        <entry key="CHINESE" value="116" />
+        <entry key="ENGLISH" value="117" />
       </map>
     </option>
   </component>
