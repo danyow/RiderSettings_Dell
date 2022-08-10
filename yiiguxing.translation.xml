@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="错误" />
+      <item value="Whole" />
+      <item value="Whole Press" />
       <item value="Compute Job Optimization" />
       <item value="Retrieve the position data." />
       <item value="Instantiate flies along with the spawner entities." />
@@ -52,14 +55,11 @@
       <item value="Properties And Events" />
       <item value="Fields And Constants" />
       <item value="When formatting some code, also fix column alignment in adjacent lines if needed" />
-      <item value="Align Similar Code In Columns" />
-      <item value="Fix Column Alignment In Adjacent Lines" />
-      <item value="Outdent Commas" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="123" />
-        <entry key="ENGLISH" value="124" />
+        <entry key="CHINESE" value="126" />
+        <entry key="ENGLISH" value="126" />
       </map>
     </option>
   </component>
