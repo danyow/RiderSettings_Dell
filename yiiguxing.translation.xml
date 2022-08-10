@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Total Seconds" />
+      <item value="sub Press Tm" />
       <item value="The time at the beginning of this frame (Read Only). This is the time in seconds since the start of the game" />
       <item value="The real time in seconds since the game started (" />
       <item value="The timeScale-independant time for this frame (Read Only). This is the time in seconds since the start of the game" />
@@ -53,13 +55,11 @@
       <item value="Type Parameters Constraints" />
       <item value="Type Parameters List" />
       <item value="Multiple Declarations" />
-      <item value="For Statement Header" />
-      <item value="Statement Conditions Inside Parenthesis" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="119" />
-        <entry key="ENGLISH" value="120" />
+        <entry key="CHINESE" value="121" />
+        <entry key="ENGLISH" value="122" />
       </map>
     </option>
   </component>
