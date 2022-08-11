@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="持续时间" />
       <item value="Jump Jmgo Trigger App" />
       <item value="Guide Message Receiver" />
       <item value="Press Timer" />
@@ -54,11 +55,10 @@
       <item value="Fields And Constants" />
       <item value="When formatting some code, also fix column alignment in adjacent lines if needed" />
       <item value="Align Similar Code In Columns" />
-      <item value="Fix Column Alignment In Adjacent Lines" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="124" />
+        <entry key="CHINESE" value="125" />
         <entry key="ENGLISH" value="125" />
       </map>
     </option>
