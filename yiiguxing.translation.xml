@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value=" TODO: provide an implementation of Unity.Debug that does not rely on UnityEngine and modernizes this API&#10;     (for now it's just here for easier compatibility and fwd migration)" />
+      <item value="Debug" />
       <item value="错误" />
       <item value="Whole" />
       <item value="Whole Press" />
@@ -53,17 +55,22 @@
       <item value="I Multiline Method Signature" />
       <item value="Simple Methods Operators Delegates" />
       <item value="Properties And Events" />
-      <item value="Fields And Constants" />
-      <item value="When formatting some code, also fix column alignment in adjacent lines if needed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="126" />
-        <entry key="ENGLISH" value="126" />
+        <entry key="CHINESE" value="127" />
+        <entry key="ENGLISH" value="128" />
       </map>
     </option>
   </component>
   <component name="Cache">
     <option name="lastTrimTime" value="1660058068936" />
+  </component>
+  <component name="Settings">
+    <option name="autoPlayTTS" value="true" />
+    <option name="keepFormat" value="true" />
+    <option name="phoneticFontFamily" value="Sarasa Mono SC" />
+    <option name="primaryFontFamily" value="Sarasa Mono SC" />
+    <option name="showReplacementActionInContextMenu" value="true" />
   </component>
 </application>
