@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Compiled" />
+      <item value="Ignore Case" />
       <item value=" TODO: provide an implementation of Unity.Debug that does not rely on UnityEngine and modernizes this API&#10;     (for now it's just here for easier compatibility and fwd migration)" />
       <item value="Debug" />
       <item value="错误" />
@@ -53,13 +55,11 @@
       <item value="Other Assignments And Initializers" />
       <item value="Variables And Local Constants" />
       <item value="I Multiline Method Signature" />
-      <item value="Simple Methods Operators Delegates" />
-      <item value="Properties And Events" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="127" />
-        <entry key="ENGLISH" value="128" />
+        <entry key="CHINESE" value="129" />
+        <entry key="ENGLISH" value="130" />
       </map>
     </option>
   </component>
