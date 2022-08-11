@@ -1,4 +1,5 @@
-<code_scheme name="Default" version="173">
+<code_scheme name="danyow" version="173">
+  <option name="AUTODETECT_INDENTS" value="false" />
   <Lua>
     <option name="ALIGN_TABLE_FIELD_ASSIGN" value="true" />
   </Lua>
