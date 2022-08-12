@@ -1,0 +1,8 @@
+<keymap version="1" name="danyow" parent="VSCode">
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="ctrl period" />
+  </action>
+</keymap>
