@@ -5,8 +5,8 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="exclude" />
       <item value="_exclude Flags" />
+      <item value="exclude" />
       <item value="Vinyl LRC" />
       <item value="意图" />
       <item value="持续时间" />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="128" />
-        <entry key="ENGLISH" value="129" />
+        <entry key="CHINESE" value="129" />
+        <entry key="ENGLISH" value="130" />
       </map>
     </option>
   </component>
