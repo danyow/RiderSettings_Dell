@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="598" />
-    <option name="newTranslationDialogX" value="1654" />
-    <option name="newTranslationDialogY" value="627" />
+    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogX" value="-1425" />
+    <option name="newTranslationDialogY" value="1201" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="suspend" />
+      <item value="中断" />
+      <item value="convert" />
       <item value="Provider" />
       <item value="lyric" />
       <item value="Show Immediate LRC" />
@@ -52,14 +55,11 @@
       <item value="Binary Expressions" />
       <item value="大于" />
       <item value="I Invocations Of The Same Method" />
-      <item value="Nested Ternary Operators" />
-      <item value="Property Patterns" />
-      <item value="Other Assignments And Initializers" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="132" />
-        <entry key="ENGLISH" value="133" />
+        <entry key="CHINESE" value="135" />
+        <entry key="ENGLISH" value="135" />
       </map>
     </option>
   </component>
