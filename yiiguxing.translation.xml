@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Show Immediate LRC" />
       <item value="_exclude Flags" />
       <item value="exclude" />
       <item value="Vinyl LRC" />
@@ -54,12 +55,11 @@
       <item value="Other Assignments And Initializers" />
       <item value="Variables And Local Constants" />
       <item value="I Multiline Method Signature" />
-      <item value="Simple Methods Operators Delegates" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="129" />
-        <entry key="ENGLISH" value="130" />
+        <entry key="CHINESE" value="130" />
+        <entry key="ENGLISH" value="131" />
       </map>
     </option>
   </component>
