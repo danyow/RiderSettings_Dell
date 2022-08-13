@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1201" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="pivot" />
       <item value="valid" />
       <item value="有效" />
       <item value="suspend" />
@@ -54,16 +55,18 @@
       <item value="Upper Camel Case" />
       <item value="Simple Switch Sections" />
       <item value="End Comments" />
-      <item value="Binary Expressions" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="137" />
-        <entry key="ENGLISH" value="137" />
+        <entry key="ENGLISH" value="138" />
       </map>
     </option>
   </component>
   <component name="Cache">
     <option name="lastTrimTime" value="1660041467082" />
+  </component>
+  <component name="Settings">
+    <option name="autoPlayTTS" value="true" />
   </component>
 </application>
