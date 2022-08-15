@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="With Store Entity Query In Field" />
       <item value="Allocation list" />
       <item value="Populate fly entities." />
       <item value="used just for dependency tracking" />
@@ -54,17 +55,16 @@
       <item value="Upper Camel Case" />
       <item value="Simple Switch Sections" />
       <item value="End Comments" />
-      <item value="Binary Expressions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="136" />
-        <entry key="ENGLISH" value="137" />
+        <entry key="CHINESE" value="137" />
+        <entry key="ENGLISH" value="138" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1660058068936" />
+    <option name="lastTrimTime" value="1660521227146" />
   </component>
   <component name="Settings">
     <option name="autoPlayTTS" value="true" />
