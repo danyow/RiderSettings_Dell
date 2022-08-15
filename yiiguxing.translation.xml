@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1201" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="press Model" />
       <item value="透明" />
       <item value="pivot" />
       <item value="valid" />
@@ -54,17 +55,16 @@
       <item value="Indent inside namespace declaration" />
       <item value="Type and namespace declaration" />
       <item value="Upper Camel Case" />
-      <item value="Simple Switch Sections" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="138" />
-        <entry key="ENGLISH" value="138" />
+        <entry key="ENGLISH" value="139" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1660041467082" />
+    <option name="lastTrimTime" value="1660554163222" />
   </component>
   <component name="Settings">
     <option name="autoPlayTTS" value="true" />
