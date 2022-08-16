@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="index Format" />
       <item value="elapsed Time" />
       <item value="The total cumulative elapsed time in seconds." />
       <item value="Hash function from H. Schechter &amp; R. Bridson, goo.glRXiKaH" />
@@ -54,12 +55,11 @@
       <item value="Dispose" />
       <item value="Verify that the caller has write permission on this data. This is the race condition protection, without these checks the AtomicSafetyHandle is useless" />
       <item value=" Verify that the caller has read permission on this data.&#10;             This is the race condition protection, without these checks the AtomicSafetyHandle is useless" />
-      <item value=" Verify that the caller has write permission on this data.&#10;         This is the race condition protection, without these checks the AtomicSafetyHandle is useless" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="208" />
-        <entry key="ENGLISH" value="209" />
+        <entry key="CHINESE" value="209" />
+        <entry key="ENGLISH" value="210" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
