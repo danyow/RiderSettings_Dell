@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Scale Pivot Translation" />
+      <item value="Composite Scale" />
+      <item value="Non Uniform Scale" />
+      <item value="Parent Scale Inverse" />
       <item value="index Format" />
       <item value="elapsed Time" />
       <item value="The total cumulative elapsed time in seconds." />
@@ -51,15 +55,11 @@
       <item value="Native Container Is Atomic Write Only" />
       <item value="Native Item" />
       <item value="Native Thing" />
-      <item value=" Let the dispose sentinel know that the data has been freed so it does not report any memory leaks" />
-      <item value="Dispose" />
-      <item value="Verify that the caller has write permission on this data. This is the race condition protection, without these checks the AtomicSafetyHandle is useless" />
-      <item value=" Verify that the caller has read permission on this data.&#10;             This is the race condition protection, without these checks the AtomicSafetyHandle is useless" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="209" />
-        <entry key="ENGLISH" value="210" />
+        <entry key="CHINESE" value="214" />
+        <entry key="ENGLISH" value="215" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
