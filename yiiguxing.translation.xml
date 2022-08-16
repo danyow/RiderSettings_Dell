@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogWidth" value="596" />
     <option name="newTranslationDialogX" value="1654" />
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="disintegrator" />
+      <item value="粉碎机" />
+      <item value="Disintegrator" />
       <item value="No need for atomics any more since we are just incrementing the local count" />
       <item value=" The current worker thread index, it must use this exact name since it is injected" />
       <item value=" Let the JobSystem know that it should inject the current worker index into this container" />
@@ -52,14 +55,11 @@
       <item value="With Native Disable Parallel For Restriction" />
       <item value="The total cumulative elapsed time in seconds." />
       <item value="Set Shared Component Filter" />
-      <item value="With Store Entity Query In Field" />
-      <item value="Allocation list" />
-      <item value="Populate fly entities." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="192" />
-        <entry key="ENGLISH" value="193" />
+        <entry key="CHINESE" value="195" />
+        <entry key="ENGLISH" value="195" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
