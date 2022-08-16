@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="因子" />
+      <item value="facet" />
+      <item value="With Native Disable Parallel For Restriction" />
+      <item value="The total cumulative elapsed time in seconds." />
       <item value="Set Shared Component Filter" />
       <item value="With Store Entity Query In Field" />
       <item value="Allocation list" />
@@ -51,15 +55,11 @@
       <item value="Property declaration" />
       <item value="Lambda and delegate (anonymous method declaration)" />
       <item value="Method declaration" />
-      <item value="Indent inside namespace declaration" />
-      <item value="Type and namespace declaration" />
-      <item value="Upper Camel Case" />
-      <item value="Simple Switch Sections" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="138" />
-        <entry key="ENGLISH" value="139" />
+        <entry key="CHINESE" value="142" />
+        <entry key="ENGLISH" value="142" />
       </map>
     </option>
   </component>
