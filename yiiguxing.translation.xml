@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="elapsed Time" />
+      <item value="The total cumulative elapsed time in seconds." />
+      <item value="Hash function from H. Schechter &amp; R. Bridson, goo.glRXiKaH" />
+      <item value="Utility" />
+      <item value="velocity" />
+      <item value="Compute Job Optimization" />
+      <item value="Disintegrator Animation System" />
       <item value="Enumerate all the instance data entries." />
       <item value="Allocation tracking" />
       <item value="分配清单" />
@@ -48,18 +55,11 @@
       <item value="Verify that the caller has write permission on this data. This is the race condition protection, without these checks the AtomicSafetyHandle is useless" />
       <item value=" Verify that the caller has read permission on this data.&#10;             This is the race condition protection, without these checks the AtomicSafetyHandle is useless" />
       <item value=" Verify that the caller has write permission on this data.&#10;         This is the race condition protection, without these checks the AtomicSafetyHandle is useless" />
-      <item value="Increment" />
-      <item value="data" />
-      <item value="uninitialized data" />
-      <item value="Atomic Safety Handle" />
-      <item value=" Allocate native memory for a single integer" />
-      <item value="{0} used in NativeQueue&lt;{0}&gt; must be blittable" />
-      <item value="used in NativeQueue&lt;{0}&gt; must be blittable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="201" />
-        <entry key="ENGLISH" value="202" />
+        <entry key="CHINESE" value="208" />
+        <entry key="ENGLISH" value="209" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
