@@ -5,6 +5,38 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Check Write And Throw" />
+      <item value="operator" />
+      <item value="implicit" />
+      <item value="Copy of the AtomicSafetyHandle from the full NativeCounter. The dispose sentinel is not copied since this inner struct does not own the memory and is not responsible for freeing it" />
+      <item value="Copy of the pointer from the full NativeCounter" />
+      <item value="Native Disable Unsafe Ptr Restriction" />
+      <item value="Parallel For" />
+      <item value=" This attribute is what makes it possible to use NativeCounter.Concurrent in a ParallelFor job" />
+      <item value="Native Container Is Atomic Write Only" />
+      <item value="Native Item" />
+      <item value="Native Thing" />
+      <item value=" Let the dispose sentinel know that the data has been freed so it does not report any memory leaks" />
+      <item value="Dispose" />
+      <item value="Verify that the caller has write permission on this data. This is the race condition protection, without these checks the AtomicSafetyHandle is useless" />
+      <item value=" Verify that the caller has read permission on this data.&#10;             This is the race condition protection, without these checks the AtomicSafetyHandle is useless" />
+      <item value=" Verify that the caller has write permission on this data.&#10;         This is the race condition protection, without these checks the AtomicSafetyHandle is useless" />
+      <item value="Increment" />
+      <item value="data" />
+      <item value="uninitialized data" />
+      <item value="Initialize the count to 0 to avoid uninitialized data" />
+      <item value="Atomic Safety Handle" />
+      <item value="Create a dispose sentinel to track memory leaks. This also creates the AtomicSafetyHandle" />
+      <item value=" This check is redundant since we always use an int which is blittable.&#10;         It is here as an example of how to check for type correctness for generic types." />
+      <item value=" Allocate native memory for a single integer" />
+      <item value="{0} used in NativeQueue&lt;{0}&gt; must be blittable" />
+      <item value="used in NativeQueue&lt;{0}&gt; must be blittable" />
+      <item value="Keep track of where the memory for this was allocated" />
+      <item value=" The dispose sentinel tracks memory leaks. It is a managed type so it is cleared to null when scheduling a job&#10;     The job cannot dispose the container, and no one else can dispose it until the job has run so it is ok to not pass it along&#10;     This attribute is required, without it this native container cannot be passed to a job since that would give the job access to a managed object" />
+      <item value="Native Set Class Type To Null On Schedule" />
+      <item value="ENABLE UNITY COLLECTIONS CHECKS" />
+      <item value="The actual pointer to the allocated count needs to have restrictions relaxed so jobs can be schedled with this container" />
+      <item value="Sequential" />
       <item value="因子" />
       <item value="facet" />
       <item value="With Native Disable Parallel For Restriction" />
@@ -23,43 +55,12 @@
       <item value=" TODO: provide an implementation of Unity.Debug that does not rely on UnityEngine and modernizes this API&#10;     (for now it's just here for easier compatibility and fwd migration)" />
       <item value="Debug" />
       <item value="错误" />
-      <item value="Whole" />
-      <item value="Whole Press" />
-      <item value="Compute Job Optimization" />
-      <item value="Retrieve the position data." />
-      <item value="Instantiate flies along with the spawner entities." />
-      <item value="Get a copy of the entity array. Don't directly use the iterator -- we're going to remove the spawner components, and it will invalidate the iterator." />
-      <item value="Retrieve the mesh data." />
-      <item value="Skip if it has no data." />
-      <item value="Facet" />
-      <item value="Persistent allocation." />
-      <item value="Invalid allocation." />
-      <item value="Other Indents" />
-      <item value="Parenthesis" />
-      <item value="翻译" />
-      <item value="Indent style" />
-      <item value="Tab Indents Alignment" />
-      <item value="partial" />
-      <item value="Blank Lines In Declarations" />
-      <item value="Before single-line comment" />
-      <item value="Inside" />
-      <item value="Around region" />
-      <item value="Blank Lines" />
-      <item value="Braces Layout" />
-      <item value="statement" />
-      <item value="Empty braces formatting" />
-      <item value="Allow comment after '{'" />
-      <item value="Expressions (initializers, switch expressions, patterns) Use continuous line indent inside expression braces" />
-      <item value="Block under &quot;case&quot; label" />
-      <item value="Accessor declaration" />
-      <item value="Property declaration" />
-      <item value="Lambda and delegate (anonymous method declaration)" />
-      <item value="Method declaration" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="142" />
-        <entry key="ENGLISH" value="142" />
+        <entry key="CHINESE" value="175" />
+        <entry key="ENGLISH" value="176" />
+        <entry key="FRENCH" value="1" />
       </map>
     </option>
   </component>
