@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Optimize mesh for frequent updates." />
+      <item value="Mark Dynamic" />
       <item value="Scale Pivot Translation" />
       <item value="Composite Scale" />
       <item value="Non Uniform Scale" />
@@ -53,13 +55,11 @@
       <item value="Parallel For" />
       <item value=" This attribute is what makes it possible to use NativeCounter.Concurrent in a ParallelFor job" />
       <item value="Native Container Is Atomic Write Only" />
-      <item value="Native Item" />
-      <item value="Native Thing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="214" />
-        <entry key="ENGLISH" value="215" />
+        <entry key="CHINESE" value="216" />
+        <entry key="ENGLISH" value="217" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
