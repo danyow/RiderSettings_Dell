@@ -5,6 +5,14 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Enumerate all the instance data entries." />
+      <item value="Allocation tracking" />
+      <item value="分配清单" />
+      <item value="Used to enumerate instance components" />
+      <item value="Entity archetype used for instantiation" />
+      <item value="Retrieve the source data." />
+      <item value="Create a renderer for this group." />
+      <item value="Remove the instance component from the entity." />
       <item value="disintegrator" />
       <item value="粉碎机" />
       <item value="Disintegrator" />
@@ -47,19 +55,11 @@
       <item value=" Allocate native memory for a single integer" />
       <item value="{0} used in NativeQueue&lt;{0}&gt; must be blittable" />
       <item value="used in NativeQueue&lt;{0}&gt; must be blittable" />
-      <item value="Native Set Class Type To Null On Schedule" />
-      <item value="ENABLE UNITY COLLECTIONS CHECKS" />
-      <item value="Sequential" />
-      <item value="因子" />
-      <item value="facet" />
-      <item value="With Native Disable Parallel For Restriction" />
-      <item value="The total cumulative elapsed time in seconds." />
-      <item value="Set Shared Component Filter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="195" />
-        <entry key="ENGLISH" value="195" />
+        <entry key="CHINESE" value="201" />
+        <entry key="ENGLISH" value="202" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
