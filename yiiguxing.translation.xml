@@ -5,6 +5,33 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Reset the triangle counter." />
+      <item value="shared" />
+      <item value="flap" />
+      <item value="Render Settings Authoring" />
+      <item value="Particle" />
+      <item value="Triangle" />
+      <item value="Draw call" />
+      <item value="Set a big bounding box to avoid being culled." />
+      <item value="Set the default index array for the first time." />
+      <item value="Update the vertexnormal array via managed arrays." />
+      <item value="Check if the mesh has been already used." />
+      <item value="Do nothing if no mesh (== default empty data)" />
+      <item value="Iterate over the renderer components." />
+      <item value=" Pointers to the temporary managed arrays" />
+      <item value="Default index array" />
+      <item value=" Allocate the temporary managed arrays." />
+      <item value="Managed arrays used to inject data into a mesh" />
+      <item value=" Just used to enable dependency tracking" />
+      <item value="Create Entities Over Mesh" />
+      <item value="ComponentSystem implementation" />
+      <item value="Create the template entity." />
+      <item value="Clone the template entity." />
+      <item value="Set the initial data." />
+      <item value="Destroy the temporary objects." />
+      <item value="Create a renderer for this group." />
+      <item value="Calculate the transform matrix." />
+      <item value="Instantiate" />
       <item value="Optimize mesh for frequent updates." />
       <item value="Mark Dynamic" />
       <item value="Scale Pivot Translation" />
@@ -25,41 +52,14 @@
       <item value="Used to enumerate instance components" />
       <item value="Entity archetype used for instantiation" />
       <item value="Retrieve the source data." />
-      <item value="Create a renderer for this group." />
       <item value="Remove the instance component from the entity." />
       <item value="disintegrator" />
       <item value="粉碎机" />
-      <item value="Disintegrator" />
-      <item value="No need for atomics any more since we are just incrementing the local count" />
-      <item value=" The current worker thread index, it must use this exact name since it is injected" />
-      <item value=" Let the JobSystem know that it should inject the current worker index into this container" />
-      <item value="Let the dispose sentinel know that the data has been freed so it does not report any memory leaks" />
-      <item value=" Clear all locally cached counts,&#10;             set the first one to the required value" />
-      <item value=" Verify that the caller has write permission on this data.&#10;             This is the race condition protection, without these checks the AtomicSafetyHandle is useless" />
-      <item value=" Verify that the caller has read permission on this data.&#10;                 This is the race condition protection, without these checks the AtomicSafetyHandle is useless" />
-      <item value="Initialize the count to 0 to avoid uninitialized data" />
-      <item value="Create a dispose sentinel to track memory leaks. This also creates the AtomicSafetyHandle" />
-      <item value=" One full cache line (integers per cacheline  size of integer) for each potential worker index, JobsUtility.MaxJobThreadCount" />
-      <item value=" This check is redundant since we always use an int which is blittable.&#10;         It is here as an example of how to check for type correctness for generic types." />
-      <item value="Keep track of where the memory for this was allocated" />
-      <item value=" The dispose sentinel tracks memory leaks. It is a managed type so it is cleared to null when scheduling a job&#10;     The job cannot dispose the container, and no one else can dispose it until the job has run so it is ok to not pass it along&#10;     This attribute is required, without it this native container cannot be passed to a job since that would give the job access to a managed object" />
-      <item value="The actual pointer to the allocated count needs to have restrictions relaxed so jobs can be schedled with this container" />
-      <item value="The actual increment is implemented with an atomic since it can be incremented by multiple threads at the same time" />
-      <item value="Increment still needs to check for write permissions" />
-      <item value="Check Write And Throw" />
-      <item value="operator" />
-      <item value="implicit" />
-      <item value="Copy of the AtomicSafetyHandle from the full NativeCounter. The dispose sentinel is not copied since this inner struct does not own the memory and is not responsible for freeing it" />
-      <item value="Copy of the pointer from the full NativeCounter" />
-      <item value="Native Disable Unsafe Ptr Restriction" />
-      <item value="Parallel For" />
-      <item value=" This attribute is what makes it possible to use NativeCounter.Concurrent in a ParallelFor job" />
-      <item value="Native Container Is Atomic Write Only" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="216" />
-        <entry key="ENGLISH" value="217" />
+        <entry key="CHINESE" value="243" />
+        <entry key="ENGLISH" value="244" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
