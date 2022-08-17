@@ -1,9 +1,9 @@
 <keymap version="1" name="danyow" parent="VSCode">
   <action id="ExpandAllRegions">
-    <keyboard-shortcut first-keystroke="shift ctrl equals" />
+    <keyboard-shortcut first-keystroke="ctrl alt equals" />
   </action>
   <action id="RiderCollapseToDefinitions">
-    <keyboard-shortcut first-keystroke="shift ctrl minus" />
+    <keyboard-shortcut first-keystroke="ctrl alt minus" />
   </action>
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="ctrl comma" />
