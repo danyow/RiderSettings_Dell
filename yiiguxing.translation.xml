@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="598" />
-    <option name="newTranslationDialogX" value="1654" />
-    <option name="newTranslationDialogY" value="627" />
+    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogX" value="-1425" />
+    <option name="newTranslationDialogY" value="1201" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="highlight" />
+      <item value="_highlight Index" />
+      <item value="hightlight" />
+      <item value="_hightlight Index" />
       <item value="y轴版本" />
       <item value="Compiled" />
       <item value="_exclude Flags" />
@@ -51,15 +55,11 @@
       <item value="Binary Expressions" />
       <item value="大于" />
       <item value="I Invocations Of The Same Method" />
-      <item value="Nested Ternary Operators" />
-      <item value="Property Patterns" />
-      <item value="Other Assignments And Initializers" />
-      <item value="Variables And Local Constants" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="131" />
-        <entry key="ENGLISH" value="131" />
+        <entry key="CHINESE" value="136" />
+        <entry key="ENGLISH" value="137" />
       </map>
     </option>
   </component>
