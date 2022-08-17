@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="y轴版本" />
       <item value="Compiled" />
       <item value="_exclude Flags" />
       <item value="exclude" />
@@ -54,11 +55,10 @@
       <item value="Property Patterns" />
       <item value="Other Assignments And Initializers" />
       <item value="Variables And Local Constants" />
-      <item value="I Multiline Method Signature" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="130" />
+        <entry key="CHINESE" value="131" />
         <entry key="ENGLISH" value="131" />
       </map>
     </option>
