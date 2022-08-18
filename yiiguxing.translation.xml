@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1201" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="_progressed" />
       <item value="DO Anchor Pos X" />
       <item value="未被使用" />
       <item value="unused" />
@@ -54,12 +55,11 @@
       <item value="Type and namespace declaration" />
       <item value="Upper Camel Case" />
       <item value="Simple Switch Sections" />
-      <item value="End Comments" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="138" />
-        <entry key="ENGLISH" value="139" />
+        <entry key="CHINESE" value="139" />
+        <entry key="ENGLISH" value="140" />
       </map>
     </option>
   </component>
