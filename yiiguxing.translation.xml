@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Get Preferred Values" />
       <item value="With Structural Changes" />
       <item value="With Dispose On Completion" />
       <item value="Amplitude" />
@@ -54,12 +55,11 @@
       <item value="Enumerate all the instance data entries." />
       <item value="Allocation tracking" />
       <item value="分配清单" />
-      <item value="Used to enumerate instance components" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="248" />
-        <entry key="ENGLISH" value="249" />
+        <entry key="CHINESE" value="249" />
+        <entry key="ENGLISH" value="250" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
