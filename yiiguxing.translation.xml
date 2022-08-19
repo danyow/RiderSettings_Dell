@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="角落" />
       <item value="_bluetooth Mode" />
       <item value="Get Preferred Values" />
       <item value="With Structural Changes" />
@@ -54,12 +55,11 @@
       <item value="Compute Job Optimization" />
       <item value="Disintegrator Animation System" />
       <item value="Enumerate all the instance data entries." />
-      <item value="Allocation tracking" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="250" />
-        <entry key="ENGLISH" value="251" />
+        <entry key="CHINESE" value="252" />
+        <entry key="ENGLISH" value="252" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
