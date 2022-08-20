@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Method to calculate the preferred width and height of the text object." />
+      <item value="Reset dirty states as we always want to recalculate preferred values when this function is called." />
+      <item value="Function to Calculate the Preferred Width and Height of the text object." />
+      <item value="Function used for preprocessing of text" />
       <item value="角落" />
       <item value="_bluetooth Mode" />
       <item value="Get Preferred Values" />
@@ -51,21 +55,17 @@
       <item value="The total cumulative elapsed time in seconds." />
       <item value="Hash function from H. Schechter &amp; R. Bridson, goo.glRXiKaH" />
       <item value="Utility" />
-      <item value="velocity" />
-      <item value="Compute Job Optimization" />
-      <item value="Disintegrator Animation System" />
-      <item value="Enumerate all the instance data entries." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="252" />
-        <entry key="ENGLISH" value="252" />
+        <entry key="CHINESE" value="255" />
+        <entry key="ENGLISH" value="256" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1660521227146" />
+    <option name="lastTrimTime" value="1660963491637" />
   </component>
   <component name="Settings">
     <option name="autoPlayTTS" value="true" />
