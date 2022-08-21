@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Update Before" />
       <item value="Method to calculate the preferred width and height of the text object." />
       <item value="Reset dirty states as we always want to recalculate preferred values when this function is called." />
       <item value="Function to Calculate the Preferred Width and Height of the text object." />
@@ -54,12 +55,11 @@
       <item value="elapsed Time" />
       <item value="The total cumulative elapsed time in seconds." />
       <item value="Hash function from H. Schechter &amp; R. Bridson, goo.glRXiKaH" />
-      <item value="Utility" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="255" />
-        <entry key="ENGLISH" value="256" />
+        <entry key="CHINESE" value="256" />
+        <entry key="ENGLISH" value="257" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
