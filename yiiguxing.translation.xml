@@ -1,69 +1,77 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogWidth" value="596" />
-    <option name="newTranslationDialogX" value="-1425" />
-    <option name="newTranslationDialogY" value="1201" />
+    <option name="newTranslationDialogX" value="1654" />
+    <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="决定性" />
-      <item value="_progressed" />
-      <item value="DO Anchor Pos X" />
-      <item value="未被使用" />
-      <item value="unused" />
-      <item value="highlight" />
-      <item value="_highlight Index" />
-      <item value="hightlight" />
-      <item value="_hightlight Index" />
-      <item value="y轴版本" />
-      <item value="Compiled" />
-      <item value="_exclude Flags" />
-      <item value="exclude" />
-      <item value="Vinyl LRC" />
-      <item value="意图" />
-      <item value="持续时间" />
-      <item value="Jump Jmgo Trigger App" />
-      <item value="Guide Message Receiver" />
-      <item value="Press Timer" />
-      <item value="遥控码" />
-      <item value="Total Seconds" />
-      <item value="sub Press Tm" />
-      <item value="The time at the beginning of this frame (Read Only). This is the time in seconds since the start of the game" />
-      <item value="The real time in seconds since the game started (" />
-      <item value="The timeScale-independant time for this frame (Read Only). This is the time in seconds since the start of the game" />
-      <item value="The time the latest MonoBehaviour.FixedUpdate has started (Read Only). This is the time in seconds since the start of the game" />
-      <item value="Other Indents" />
-      <item value="Parenthesis" />
-      <item value="翻译" />
-      <item value="Indent style" />
-      <item value="Tab Indents Alignment" />
-      <item value="partial" />
-      <item value="Blank Lines In Declarations" />
-      <item value="Before single-line comment" />
-      <item value="Inside" />
-      <item value="Around region" />
-      <item value="Blank Lines" />
-      <item value="Braces Layout" />
-      <item value="statement" />
-      <item value="Empty braces formatting" />
-      <item value="Allow comment after '{'" />
-      <item value="Expressions (initializers, switch expressions, patterns) Use continuous line indent inside expression braces" />
-      <item value="Block under &quot;case&quot; label" />
-      <item value="Accessor declaration" />
-      <item value="Property declaration" />
-      <item value="Lambda and delegate (anonymous method declaration)" />
-      <item value="Method declaration" />
-      <item value="Indent inside namespace declaration" />
-      <item value="Type and namespace declaration" />
-      <item value="Upper Camel Case" />
+      <item value="Method to calculate the preferred width and height of the text object." />
+      <item value="Reset dirty states as we always want to recalculate preferred values when this function is called." />
+      <item value="Function to Calculate the Preferred Width and Height of the text object." />
+      <item value="Function used for preprocessing of text" />
+      <item value="角落" />
+      <item value="_bluetooth Mode" />
+      <item value="Get Preferred Values" />
+      <item value="With Structural Changes" />
+      <item value="With Dispose On Completion" />
+      <item value="Amplitude" />
+      <item value="amplitude" />
+      <item value="frequency" />
+      <item value="Reset the triangle counter." />
+      <item value="shared" />
+      <item value="flap" />
+      <item value="Render Settings Authoring" />
+      <item value="Particle" />
+      <item value="Triangle" />
+      <item value="Draw call" />
+      <item value="Set a big bounding box to avoid being culled." />
+      <item value="Set the default index array for the first time." />
+      <item value="Update the vertexnormal array via managed arrays." />
+      <item value="Check if the mesh has been already used." />
+      <item value="Do nothing if no mesh (== default empty data)" />
+      <item value="Iterate over the renderer components." />
+      <item value=" Pointers to the temporary managed arrays" />
+      <item value="Default index array" />
+      <item value=" Allocate the temporary managed arrays." />
+      <item value="Managed arrays used to inject data into a mesh" />
+      <item value=" Just used to enable dependency tracking" />
+      <item value="Create Entities Over Mesh" />
+      <item value="ComponentSystem implementation" />
+      <item value="Create the template entity." />
+      <item value="Clone the template entity." />
+      <item value="Set the initial data." />
+      <item value="Destroy the temporary objects." />
+      <item value="Create a renderer for this group." />
+      <item value="Calculate the transform matrix." />
+      <item value="Instantiate" />
+      <item value="Optimize mesh for frequent updates." />
+      <item value="Mark Dynamic" />
+      <item value="Scale Pivot Translation" />
+      <item value="Composite Scale" />
+      <item value="Non Uniform Scale" />
+      <item value="Parent Scale Inverse" />
+      <item value="index Format" />
+      <item value="elapsed Time" />
+      <item value="The total cumulative elapsed time in seconds." />
+      <item value="Hash function from H. Schechter &amp; R. Bridson, goo.glRXiKaH" />
+      <item value="Utility" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="140" />
-        <entry key="ENGLISH" value="140" />
+        <entry key="CHINESE" value="255" />
+        <entry key="ENGLISH" value="256" />
+        <entry key="FRENCH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1660717297956" />
+    <option name="lastTrimTime" value="1660963491637" />
+  </component>
+  <component name="Settings">
+    <option name="autoPlayTTS" value="true" />
+    <option name="keepFormat" value="true" />
+    <option name="phoneticFontFamily" value="Sarasa Mono SC" />
+    <option name="primaryFontFamily" value="Sarasa Mono SC" />
+    <option name="showReplacementActionInContextMenu" value="true" />
   </component>
 </application>
