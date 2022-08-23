@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Update the vertexnormal array via the managed buffers." />
+      <item value="Clear the rest of the managed vertex buffer." />
+      <item value="Copy the vertexnormal data into the managed buffers." />
       <item value=" NOTE: This is a per project ifdfef,&#10;       the samples in this project are run in both modes for testing purposes.&#10;       In a normal game project this ifdef is not required." />
       <item value="Update Before" />
       <item value="Method to calculate the preferred width and height of the text object." />
@@ -52,14 +55,11 @@
       <item value="Composite Scale" />
       <item value="Non Uniform Scale" />
       <item value="Parent Scale Inverse" />
-      <item value="index Format" />
-      <item value="elapsed Time" />
-      <item value="The total cumulative elapsed time in seconds." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="257" />
-        <entry key="ENGLISH" value="258" />
+        <entry key="CHINESE" value="260" />
+        <entry key="ENGLISH" value="261" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
