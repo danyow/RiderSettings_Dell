@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="废弃" />
+      <item value="同步数据" />
       <item value="手动" />
       <item value="触发" />
       <item value="Parse" />
@@ -53,13 +55,11 @@
       <item value="Scale Pivot Translation" />
       <item value="Composite Scale" />
       <item value="Non Uniform Scale" />
-      <item value="Parent Scale Inverse" />
-      <item value="index Format" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="259" />
-        <entry key="ENGLISH" value="259" />
+        <entry key="CHINESE" value="261" />
+        <entry key="ENGLISH" value="261" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
