@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Clear the unused part of the vertex buffer." />
       <item value="Accessor to the scene transforms" />
       <item value="Update the vertexnormal array via the managed buffers." />
       <item value="Clear the rest of the managed vertex buffer." />
@@ -54,12 +55,11 @@
       <item value="Mark Dynamic" />
       <item value="Scale Pivot Translation" />
       <item value="Composite Scale" />
-      <item value="Non Uniform Scale" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="261" />
-        <entry key="ENGLISH" value="262" />
+        <entry key="CHINESE" value="262" />
+        <entry key="ENGLISH" value="263" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
