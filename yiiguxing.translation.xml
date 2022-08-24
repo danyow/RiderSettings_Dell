@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="         We use parallel-for jobs to calculate the initial data for the&#10;         components in the instanced entities. The primary motivation of this&#10;         is to optimize the vector math operations with Burst -- We don't&#10;         expect that parallelism gives a big performance boost." />
+      <item value="Jobified initializer" />
+      <item value="Loop 3: Iterate over the vertices in the template mesh." />
+      <item value="Loop 2: Iterate over the instance entities." />
+      <item value="Loop 1: Iterate over the unique instance data entries." />
+      <item value="            &#10;             There are three levels of loops in this system:&#10;            &#10;             Loop 1: Through the array of unique instance settings. We'll get&#10;             an array of entities that share the same instance setting.&#10;            &#10;             Loop 2: Through the array of entities got in Loop 1.&#10;            &#10;             Loop 3: Through the array of vertices in the template mesh given&#10;             via the instance setting.&#10;            " />
       <item value="Clear the unused part of the vertex buffer." />
       <item value="Accessor to the scene transforms" />
       <item value="Update the vertexnormal array via the managed buffers." />
@@ -49,17 +55,11 @@
       <item value="Set the initial data." />
       <item value="Destroy the temporary objects." />
       <item value="Create a renderer for this group." />
-      <item value="Calculate the transform matrix." />
-      <item value="Instantiate" />
-      <item value="Optimize mesh for frequent updates." />
-      <item value="Mark Dynamic" />
-      <item value="Scale Pivot Translation" />
-      <item value="Composite Scale" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="262" />
-        <entry key="ENGLISH" value="263" />
+        <entry key="CHINESE" value="268" />
+        <entry key="ENGLISH" value="269" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
