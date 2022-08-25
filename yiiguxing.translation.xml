@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="596" />
-    <option name="newTranslationDialogX" value="1654" />
-    <option name="newTranslationDialogY" value="627" />
+    <option name="newTranslationDialogWidth" value="594" />
+    <option name="newTranslationDialogX" value="-1425" />
+    <option name="newTranslationDialogY" value="1201" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Resume Execute" />
+      <item value="execute" />
+      <item value="执行" />
+      <item value="execution" />
       <item value="data Modify" />
       <item value="转发" />
       <item value="Resume" />
@@ -51,21 +55,17 @@
       <item value="Managed arrays used to inject data into a mesh" />
       <item value=" Just used to enable dependency tracking" />
       <item value="Create Entities Over Mesh" />
-      <item value="ComponentSystem implementation" />
-      <item value="Create the template entity." />
-      <item value="Clone the template entity." />
-      <item value="Set the initial data." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="267" />
-        <entry key="ENGLISH" value="268" />
+        <entry key="CHINESE" value="271" />
+        <entry key="ENGLISH" value="272" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1660963491637" />
+    <option name="lastTrimTime" value="1661396454642" />
   </component>
   <component name="Settings">
     <option name="autoPlayTTS" value="true" />
