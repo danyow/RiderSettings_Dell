@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Reset the triangle counter for the next frame." />
+      <item value="Set the initial data." />
+      <item value="Destroy the temporary objects." />
+      <item value="Create an array of clones as putting a clone on each triangle." />
+      <item value="Create the default entities." />
       <item value=" We want to do entity instantiation in parallel with the jobs,&#10;             so let the jobs kick in immediately." />
       <item value="Create a renderer for this group." />
       <item value="Calculate the initial data with parallel-for jobs." />
@@ -50,16 +55,11 @@
       <item value="Default index array" />
       <item value=" Allocate the temporary managed arrays." />
       <item value="Managed arrays used to inject data into a mesh" />
-      <item value=" Just used to enable dependency tracking" />
-      <item value="Create Entities Over Mesh" />
-      <item value="ComponentSystem implementation" />
-      <item value="Create the template entity." />
-      <item value="Clone the template entity." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="271" />
-        <entry key="ENGLISH" value="272" />
+        <entry key="CHINESE" value="276" />
+        <entry key="ENGLISH" value="277" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
