@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Resume" />
+      <item value="Default Data Sync" />
+      <item value="Multiple" />
+      <item value="允许全部" />
+      <item value="只允许一个" />
       <item value="Parse Action" />
       <item value="优先级" />
       <item value="废弃" />
@@ -50,16 +55,11 @@
       <item value="Set the initial data." />
       <item value="Destroy the temporary objects." />
       <item value="Create a renderer for this group." />
-      <item value="Calculate the transform matrix." />
-      <item value="Instantiate" />
-      <item value="Optimize mesh for frequent updates." />
-      <item value="Mark Dynamic" />
-      <item value="Scale Pivot Translation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="262" />
-        <entry key="ENGLISH" value="263" />
+        <entry key="CHINESE" value="266" />
+        <entry key="ENGLISH" value="267" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
