@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="1201" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Nothing To Do" />
+      <item value="check To Skip" />
+      <item value="check Action" />
+      <item value="Both Execute Type" />
       <item value="Resume Execute" />
       <item value="execute" />
       <item value="执行" />
@@ -51,15 +55,11 @@
       <item value="Iterate over the renderer components." />
       <item value=" Pointers to the temporary managed arrays" />
       <item value="Default index array" />
-      <item value=" Allocate the temporary managed arrays." />
-      <item value="Managed arrays used to inject data into a mesh" />
-      <item value=" Just used to enable dependency tracking" />
-      <item value="Create Entities Over Mesh" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="271" />
-        <entry key="ENGLISH" value="272" />
+        <entry key="CHINESE" value="275" />
+        <entry key="ENGLISH" value="276" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
