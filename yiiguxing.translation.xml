@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="1201" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="排除" />
+      <item value="Excluded" />
+      <item value="Exclued" />
       <item value="Nothing To Do" />
       <item value="check To Skip" />
       <item value="check Action" />
@@ -52,14 +55,11 @@
       <item value="Update the vertexnormal array via managed arrays." />
       <item value="Check if the mesh has been already used." />
       <item value="Do nothing if no mesh (== default empty data)" />
-      <item value="Iterate over the renderer components." />
-      <item value=" Pointers to the temporary managed arrays" />
-      <item value="Default index array" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="275" />
-        <entry key="ENGLISH" value="276" />
+        <entry key="CHINESE" value="278" />
+        <entry key="ENGLISH" value="278" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
