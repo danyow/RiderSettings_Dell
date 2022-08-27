@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Pointer to an underlying graphics API texture resource.&lt;" />
       <item value="Reset the triangle counter for the next frame." />
       <item value="Set the initial data." />
       <item value="Destroy the temporary objects." />
@@ -54,18 +55,17 @@
       <item value=" Pointers to the temporary managed arrays" />
       <item value="Default index array" />
       <item value=" Allocate the temporary managed arrays." />
-      <item value="Managed arrays used to inject data into a mesh" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="276" />
-        <entry key="ENGLISH" value="277" />
+        <entry key="CHINESE" value="277" />
+        <entry key="ENGLISH" value="278" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1660963491637" />
+    <option name="lastTrimTime" value="1661559889797" />
   </component>
   <component name="Settings">
     <option name="autoPlayTTS" value="true" />
