@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value=" We want this renderer object disposed at the end of world." />
       <item value="Returns native RenderBuffer. Be warned this is not native Texture, but rather pointer to unity struct that can be used with native unity API. Currently such API exists only on iOS." />
       <item value="A NativeArray exposes a buffer of native memory to managed code, making it possible to share data between managed and native without marshalling costs." />
       <item value="Pointer to an underlying graphics API texture resource.&lt;" />
@@ -54,12 +55,11 @@
       <item value="Check if the mesh has been already used." />
       <item value="Do nothing if no mesh (== default empty data)" />
       <item value="Iterate over the renderer components." />
-      <item value=" Pointers to the temporary managed arrays" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="279" />
-        <entry key="ENGLISH" value="280" />
+        <entry key="CHINESE" value="280" />
+        <entry key="ENGLISH" value="281" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
