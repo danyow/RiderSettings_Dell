@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="1201" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Adds the given rotation to the transform's local axis&#10;     (like when rotating an object with the &quot;local&quot; switch enabled in Unity's editor or using transform.Rotate(Space.Self)).&#10;     &lt;para&gt;In this mode the end value is is always considered relative" />
+      <item value=" Adds the given rotation to the transform using world axis and an advanced precision mode&#10;     (like when using transform.Rotate(Space.World)).&#10;     &lt;para&gt;In this mode the end value is is always considered relative" />
+      <item value="Fastest way that never rotates beyond 360°" />
+      <item value="Fastest way that rotates beyond 360°" />
       <item value="Smoothly rewinds the tween" />
       <item value="Ignored in case of Sequences. If &amp;gt;= 0 changes the startup delay to this value, otherwise doesn't touch it" />
       <item value="Ignored in case of Sequences. If TRUE includes the eventual tween delay, otherwise skips it" />
@@ -51,21 +55,17 @@
       <item value="Get Preferred Values" />
       <item value="With Structural Changes" />
       <item value="With Dispose On Completion" />
-      <item value="Amplitude" />
-      <item value="amplitude" />
-      <item value="frequency" />
-      <item value="Reset the triangle counter." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="289" />
-        <entry key="ENGLISH" value="290" />
+        <entry key="CHINESE" value="293" />
+        <entry key="ENGLISH" value="294" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1661396454642" />
+    <option name="lastTrimTime" value="1661830303072" />
   </component>
   <component name="Settings">
     <option name="autoPlayTTS" value="true" />
