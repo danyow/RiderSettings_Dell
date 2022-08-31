@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1201" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="未知" />
       <item value="计算角度" />
       <item value="Adds the given rotation to the transform's local axis&#10;     (like when rotating an object with the &quot;local&quot; switch enabled in Unity's editor or using transform.Rotate(Space.Self)).&#10;     &lt;para&gt;In this mode the end value is is always considered relative" />
       <item value=" Adds the given rotation to the transform using world axis and an advanced precision mode&#10;     (like when using transform.Rotate(Space.World)).&#10;     &lt;para&gt;In this mode the end value is is always considered relative" />
@@ -54,12 +55,11 @@
       <item value="角落" />
       <item value="_bluetooth Mode" />
       <item value="Get Preferred Values" />
-      <item value="With Structural Changes" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="294" />
-        <entry key="ENGLISH" value="294" />
+        <entry key="CHINESE" value="295" />
+        <entry key="ENGLISH" value="295" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
