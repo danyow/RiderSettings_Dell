@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="第二" />
       <item value="        Tweaks on class modifiers" />
       <item value=" Create an array of clones as putting a clone on each triangle." />
       <item value="Initialize the default entity table." />
@@ -54,11 +55,10 @@
       <item value="amplitude" />
       <item value="frequency" />
       <item value="Reset the triangle counter." />
-      <item value="shared" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="291" />
+        <entry key="CHINESE" value="292" />
         <entry key="ENGLISH" value="292" />
         <entry key="FRENCH" value="1" />
       </map>
