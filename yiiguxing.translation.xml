@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1201" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="歌词记录器" />
       <item value="Get Playback Progress Real" />
       <item value="未知" />
       <item value="计算角度" />
@@ -54,11 +55,10 @@
       <item value="Function to Calculate the Preferred Width and Height of the text object." />
       <item value="Function used for preprocessing of text" />
       <item value="角落" />
-      <item value="_bluetooth Mode" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="295" />
+        <entry key="CHINESE" value="296" />
         <entry key="ENGLISH" value="296" />
         <entry key="FRENCH" value="1" />
       </map>
