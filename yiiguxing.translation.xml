@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Export With Report" />
+      <item value="Patch Android Project" />
+      <item value="后处理" />
       <item value="Auto Build Tool" />
       <item value="_is Export Project" />
       <item value="Check Start Params Exist Jump Action" />
@@ -52,14 +55,11 @@
       <item value="Method to calculate the preferred width and height of the text object." />
       <item value="Reset dirty states as we always want to recalculate preferred values when this function is called." />
       <item value="Function to Calculate the Preferred Width and Height of the text object." />
-      <item value="Function used for preprocessing of text" />
-      <item value="角落" />
-      <item value="_bluetooth Mode" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="298" />
-        <entry key="ENGLISH" value="299" />
+        <entry key="CHINESE" value="300" />
+        <entry key="ENGLISH" value="301" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
