@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Bakup Temp Symbols" />
       <item value="_copy Temp Symbols" />
       <item value="Export With Report" />
       <item value="Patch Android Project" />
@@ -54,12 +55,11 @@
       <item value=" NOTE: This is a per project ifdfef,&#10;       the samples in this project are run in both modes for testing purposes.&#10;       In a normal game project this ifdef is not required." />
       <item value="Update Before" />
       <item value="Method to calculate the preferred width and height of the text object." />
-      <item value="Reset dirty states as we always want to recalculate preferred values when this function is called." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="301" />
-        <entry key="ENGLISH" value="302" />
+        <entry key="CHINESE" value="302" />
+        <entry key="ENGLISH" value="303" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
