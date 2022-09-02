@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="_copy Temp Symbols" />
       <item value="Export With Report" />
       <item value="Patch Android Project" />
       <item value="后处理" />
@@ -54,12 +55,11 @@
       <item value="Update Before" />
       <item value="Method to calculate the preferred width and height of the text object." />
       <item value="Reset dirty states as we always want to recalculate preferred values when this function is called." />
-      <item value="Function to Calculate the Preferred Width and Height of the text object." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="300" />
-        <entry key="ENGLISH" value="301" />
+        <entry key="CHINESE" value="301" />
+        <entry key="ENGLISH" value="302" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
