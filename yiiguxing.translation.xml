@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="General Config" />
       <item value="Load All Sync" />
       <item value="Load All Async" />
       <item value="Bakup Temp Symbols" />
@@ -54,12 +55,11 @@
       <item value="Update the vertexnormal array via the managed buffers." />
       <item value="Clear the rest of the managed vertex buffer." />
       <item value="Copy the vertexnormal data into the managed buffers." />
-      <item value=" NOTE: This is a per project ifdfef,&#10;       the samples in this project are run in both modes for testing purposes.&#10;       In a normal game project this ifdef is not required." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="304" />
-        <entry key="ENGLISH" value="305" />
+        <entry key="CHINESE" value="305" />
+        <entry key="ENGLISH" value="306" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
