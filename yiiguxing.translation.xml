@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="receive" />
       <item value="General Config" />
       <item value="Load All Sync" />
       <item value="Load All Async" />
@@ -54,12 +55,11 @@
       <item value="Accessor to the scene transforms" />
       <item value="Update the vertexnormal array via the managed buffers." />
       <item value="Clear the rest of the managed vertex buffer." />
-      <item value="Copy the vertexnormal data into the managed buffers." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="305" />
-        <entry key="ENGLISH" value="306" />
+        <entry key="CHINESE" value="306" />
+        <entry key="ENGLISH" value="307" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
