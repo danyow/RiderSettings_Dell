@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="A UnityWebRequest properly configured to download an image and convert it to a Texture." />
+      <item value="non Readable" />
       <item value="img Frame" />
       <item value="suspend" />
       <item value="Base class that most be used for any dictionary that wants to be implemented" />
@@ -53,13 +55,11 @@
       <item value=" We want to do entity instantiation in parallel with the jobs,&#10;             so let the jobs kick in immediately." />
       <item value="Create a renderer for this group." />
       <item value="Calculate the initial data with parallel-for jobs." />
-      <item value="         We use parallel-for jobs to calculate the initial data for the&#10;         components in the instanced entities. The primary motivation of this&#10;         is to optimize the vector math operations with Burst -- We don't&#10;         expect that parallelism gives a big performance boost." />
-      <item value="Jobified initializer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="312" />
-        <entry key="ENGLISH" value="313" />
+        <entry key="CHINESE" value="314" />
+        <entry key="ENGLISH" value="315" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
