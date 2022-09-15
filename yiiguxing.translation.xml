@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="suspend" />
       <item value="Base class that most be used for any dictionary that wants to be implemented" />
       <item value="This class is only used to be able to draw the custom property drawer" />
       <item value="远场" />
@@ -54,12 +55,11 @@
       <item value="         We use parallel-for jobs to calculate the initial data for the&#10;         components in the instanced entities. The primary motivation of this&#10;         is to optimize the vector math operations with Burst -- We don't&#10;         expect that parallelism gives a big performance boost." />
       <item value="Jobified initializer" />
       <item value="Loop 3: Iterate over the vertices in the template mesh." />
-      <item value="Loop 2: Iterate over the instance entities." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="310" />
-        <entry key="ENGLISH" value="311" />
+        <entry key="CHINESE" value="311" />
+        <entry key="ENGLISH" value="312" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
