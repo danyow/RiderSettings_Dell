@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Both" />
       <item value="越界" />
       <item value="A UnityWebRequest properly configured to download an image and convert it to a Texture." />
       <item value="non Readable" />
@@ -54,12 +55,11 @@
       <item value="Create an array of clones as putting a clone on each triangle." />
       <item value="Create the default entities." />
       <item value=" We want to do entity instantiation in parallel with the jobs,&#10;             so let the jobs kick in immediately." />
-      <item value="Create a renderer for this group." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="315" />
-        <entry key="ENGLISH" value="315" />
+        <entry key="ENGLISH" value="316" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
