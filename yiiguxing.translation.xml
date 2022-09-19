@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Discover" />
       <item value="active In Hierarchy" />
       <item value="Both" />
       <item value="越界" />
@@ -54,12 +55,11 @@
       <item value="Set the initial data." />
       <item value="Destroy the temporary objects." />
       <item value="Create an array of clones as putting a clone on each triangle." />
-      <item value="Create the default entities." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="316" />
-        <entry key="ENGLISH" value="317" />
+        <entry key="CHINESE" value="317" />
+        <entry key="ENGLISH" value="318" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
