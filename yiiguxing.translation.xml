@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="固定" />
       <item value="自增" />
       <item value="Switch Zone While Show" />
       <item value="convert" />
@@ -54,12 +55,11 @@
       <item value="Default entity table" />
       <item value="Get Weight" />
       <item value=" We want this renderer object disposed at the end of world." />
-      <item value="Returns native RenderBuffer. Be warned this is not native Texture, but rather pointer to unity struct that can be used with native unity API. Currently such API exists only on iOS." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="323" />
-        <entry key="ENGLISH" value="323" />
+        <entry key="CHINESE" value="324" />
+        <entry key="ENGLISH" value="324" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
