@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Switch Zone While Show" />
       <item value="convert" />
       <item value="_convert Name" />
       <item value="only serializer properties that start with the specified character" />
@@ -54,12 +55,11 @@
       <item value=" We want this renderer object disposed at the end of world." />
       <item value="Returns native RenderBuffer. Be warned this is not native Texture, but rather pointer to unity struct that can be used with native unity API. Currently such API exists only on iOS." />
       <item value="A NativeArray exposes a buffer of native memory to managed code, making it possible to share data between managed and native without marshalling costs." />
-      <item value="Pointer to an underlying graphics API texture resource.&lt;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="321" />
-        <entry key="ENGLISH" value="322" />
+        <entry key="CHINESE" value="322" />
+        <entry key="ENGLISH" value="323" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
