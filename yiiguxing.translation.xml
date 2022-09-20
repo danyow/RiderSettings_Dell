@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Preload" />
       <item value="Generate Mip Maps" />
       <item value="固定" />
       <item value="自增" />
@@ -54,12 +55,11 @@
       <item value="Default Entity Entry" />
       <item value="  This table is used to create particle entities with a weighted&#10;         random distribution of particle types. It stores selection weights&#10;         and default entities that allows creating entities with instancing.&#10;" />
       <item value="Default entity table" />
-      <item value="Get Weight" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="324" />
-        <entry key="ENGLISH" value="325" />
+        <entry key="CHINESE" value="325" />
+        <entry key="ENGLISH" value="326" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
