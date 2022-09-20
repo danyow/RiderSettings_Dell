@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Generate Mip Maps" />
       <item value="固定" />
       <item value="自增" />
       <item value="Switch Zone While Show" />
@@ -54,18 +55,17 @@
       <item value="  This table is used to create particle entities with a weighted&#10;         random distribution of particle types. It stores selection weights&#10;         and default entities that allows creating entities with instancing.&#10;" />
       <item value="Default entity table" />
       <item value="Get Weight" />
-      <item value=" We want this renderer object disposed at the end of world." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="324" />
-        <entry key="ENGLISH" value="324" />
+        <entry key="ENGLISH" value="325" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1663155715236" />
+    <option name="lastTrimTime" value="1663641201894" />
   </component>
   <component name="Settings">
     <option name="autoPlayTTS" value="true" />
