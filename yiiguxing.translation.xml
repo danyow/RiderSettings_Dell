@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Fields whose state is saved in conjunction with text parsing and word wrapping." />
+      <item value="character To Substitute" />
       <item value="Preload" />
       <item value="Generate Mip Maps" />
       <item value="固定" />
@@ -53,13 +55,11 @@
       <item value="Normalize Default Entity Weights" />
       <item value="variant" />
       <item value="Default Entity Entry" />
-      <item value="  This table is used to create particle entities with a weighted&#10;         random distribution of particle types. It stores selection weights&#10;         and default entities that allows creating entities with instancing.&#10;" />
-      <item value="Default entity table" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="325" />
-        <entry key="ENGLISH" value="326" />
+        <entry key="CHINESE" value="327" />
+        <entry key="ENGLISH" value="328" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
