@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="A Cross" />
       <item value="Is Wait Immerse" />
       <item value="Three Text" />
       <item value="喜爱" />
@@ -54,12 +55,11 @@
       <item value="第二" />
       <item value="        Tweaks on class modifiers" />
       <item value=" Create an array of clones as putting a clone on each triangle." />
-      <item value="Initialize the default entity table." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="332" />
-        <entry key="ENGLISH" value="333" />
+        <entry key="CHINESE" value="333" />
+        <entry key="ENGLISH" value="334" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
