@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Bluetooth Disconnect" />
       <item value="A Cross" />
       <item value="Is Wait Immerse" />
       <item value="Three Text" />
@@ -54,18 +55,17 @@
       <item value="immediate Mode" />
       <item value="第二" />
       <item value="        Tweaks on class modifiers" />
-      <item value=" Create an array of clones as putting a clone on each triangle." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="333" />
-        <entry key="ENGLISH" value="334" />
+        <entry key="CHINESE" value="334" />
+        <entry key="ENGLISH" value="335" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1663641201894" />
+    <option name="lastTrimTime" value="1664249547033" />
   </component>
   <component name="Settings">
     <option name="autoPlayTTS" value="true" />
