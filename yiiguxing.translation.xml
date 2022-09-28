@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="历史" />
+      <item value="Histroy" />
+      <item value="Enter Nav Route Message" />
+      <item value="Router Enter Nav Msg" />
+      <item value="Enter Nav Msg Handler" />
       <item value="关机" />
       <item value="因为" />
       <item value="Bluetooth Disconnect" />
@@ -12,7 +17,6 @@
       <item value="Is Wait Immerse" />
       <item value="Three Text" />
       <item value="喜爱" />
-      <item value="历史" />
       <item value="daily" />
       <item value="Fields whose state is saved in conjunction with text parsing and word wrapping." />
       <item value="character To Substitute" />
@@ -51,16 +55,13 @@
       <item value="Auto Build Tool" />
       <item value="_is Export Project" />
       <item value="Check Start Params Exist Jump Action" />
-      <item value="have another jump action, the default zone action don't invoke" />
-      <item value="have Jump Action" />
-      <item value="Current Music Progress" />
-      <item value="immediate Mode" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="336" />
-        <entry key="ENGLISH" value="336" />
+        <entry key="CHINESE" value="340" />
+        <entry key="ENGLISH" value="340" />
         <entry key="FRENCH" value="1" />
+        <entry key="HINDI" value="2" />
       </map>
     </option>
   </component>
