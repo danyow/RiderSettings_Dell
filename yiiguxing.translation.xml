@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="关机" />
       <item value="因为" />
       <item value="Bluetooth Disconnect" />
       <item value="A Cross" />
@@ -54,12 +55,11 @@
       <item value="have Jump Action" />
       <item value="Current Music Progress" />
       <item value="immediate Mode" />
-      <item value="第二" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="335" />
-        <entry key="ENGLISH" value="335" />
+        <entry key="CHINESE" value="336" />
+        <entry key="ENGLISH" value="336" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
