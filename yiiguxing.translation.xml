@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Discover Daily" />
+      <item value="警告&#10;警告" />
+      <item value="dont Execute" />
+      <item value="donot Excute" />
+      <item value="is Guided" />
+      <item value="必须延时" />
+      <item value="mast Delay" />
       <item value="Memberwise Clone" />
       <item value="历史" />
       <item value="Histroy" />
@@ -48,18 +55,11 @@
       <item value="General Config" />
       <item value="Load All Sync" />
       <item value="Load All Async" />
-      <item value="Bakup Temp Symbols" />
-      <item value="_copy Temp Symbols" />
-      <item value="Export With Report" />
-      <item value="Patch Android Project" />
-      <item value="后处理" />
-      <item value="Auto Build Tool" />
-      <item value="_is Export Project" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="340" />
-        <entry key="ENGLISH" value="341" />
+        <entry key="CHINESE" value="343" />
+        <entry key="ENGLISH" value="344" />
         <entry key="FRENCH" value="1" />
         <entry key="HINDI" value="2" />
       </map>
@@ -70,9 +70,15 @@
   </component>
   <component name="Settings">
     <option name="autoPlayTTS" value="true" />
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20210603000851873" />
+      </app-key>
+    </option>
     <option name="keepFormat" value="true" />
     <option name="phoneticFontFamily" value="Sarasa Mono SC" />
     <option name="primaryFontFamily" value="Sarasa Mono SC" />
     <option name="showReplacementActionInContextMenu" value="true" />
+    <option name="translator" value="BAIDU" />
   </component>
 </application>
