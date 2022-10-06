@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="跳过" />
       <item value="Discover Daily" />
       <item value="警告&#10;警告" />
       <item value="dont Execute" />
@@ -54,11 +55,10 @@
       <item value="receive" />
       <item value="General Config" />
       <item value="Load All Sync" />
-      <item value="Load All Async" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="343" />
+        <entry key="CHINESE" value="344" />
         <entry key="ENGLISH" value="344" />
         <entry key="FRENCH" value="1" />
         <entry key="HINDI" value="2" />
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1664249547033" />
+    <option name="lastTrimTime" value="1665019018141" />
   </component>
   <component name="Settings">
     <option name="autoPlayTTS" value="true" />
