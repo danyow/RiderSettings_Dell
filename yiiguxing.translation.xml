@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="to ensure GL call has gone through" />
       <item value="modified Url" />
       <item value="拼接" />
       <item value="Prefix" />
@@ -54,12 +55,11 @@
       <item value="越界" />
       <item value="A UnityWebRequest properly configured to download an image and convert it to a Texture." />
       <item value="non Readable" />
-      <item value="img Frame" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="352" />
-        <entry key="ENGLISH" value="353" />
+        <entry key="CHINESE" value="353" />
+        <entry key="ENGLISH" value="354" />
         <entry key="FRENCH" value="1" />
         <entry key="HINDI" value="2" />
       </map>
