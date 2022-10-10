@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="拼接" />
+      <item value="Prefix" />
       <item value="Peek" />
       <item value="UI Culling Behaviour" />
       <item value="Visible Image" />
@@ -53,13 +55,11 @@
       <item value="non Readable" />
       <item value="img Frame" />
       <item value="suspend" />
-      <item value="Base class that most be used for any dictionary that wants to be implemented" />
-      <item value="This class is only used to be able to draw the custom property drawer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="350" />
-        <entry key="ENGLISH" value="351" />
+        <entry key="CHINESE" value="352" />
+        <entry key="ENGLISH" value="352" />
         <entry key="FRENCH" value="1" />
         <entry key="HINDI" value="2" />
       </map>
