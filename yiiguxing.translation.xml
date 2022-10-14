@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Ten Thousand Limit" />
+      <item value="万" />
+      <item value="unit" />
       <item value="center Scale" />
       <item value="正常" />
       <item value="粗体" />
@@ -52,14 +55,11 @@
       <item value="Preload" />
       <item value="Generate Mip Maps" />
       <item value="固定" />
-      <item value="自增" />
-      <item value="Switch Zone While Show" />
-      <item value="convert" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="361" />
-        <entry key="ENGLISH" value="362" />
+        <entry key="CHINESE" value="363" />
+        <entry key="ENGLISH" value="364" />
         <entry key="FRENCH" value="1" />
         <entry key="HINDI" value="2" />
       </map>
