@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="center Scale" />
+      <item value="正常" />
+      <item value="粗体" />
       <item value="Left Curly Bracket" />
       <item value="Left Bracket" />
       <item value="Compress to the PNG format. PNG is lossless, so quality is ignored." />
@@ -52,21 +55,18 @@
       <item value="自增" />
       <item value="Switch Zone While Show" />
       <item value="convert" />
-      <item value="_convert Name" />
-      <item value="only serializer properties that start with the specified character" />
-      <item value="The anonymous type to deserialize to. This can't be specified&#10;     traditionally and must be infered from the anonymous type passed&#10;     as a parameter." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="359" />
-        <entry key="ENGLISH" value="360" />
+        <entry key="CHINESE" value="361" />
+        <entry key="ENGLISH" value="362" />
         <entry key="FRENCH" value="1" />
         <entry key="HINDI" value="2" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1665019018141" />
+    <option name="lastTrimTime" value="1665565651428" />
   </component>
   <component name="Settings">
     <option name="autoPlayTTS" value="true" />
