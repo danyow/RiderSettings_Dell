@@ -5,6 +5,23 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="分析器" />
+      <item value="运行器" />
+      <item value="执行器" />
+      <item value="Cmd Execuder" />
+      <item value="Discards" />
+      <item value="弃用" />
+      <item value="废弃" />
+      <item value="Globals" />
+      <item value="Globles" />
+      <item value="Globle" />
+      <item value="来源" />
+      <item value="除了" />
+      <item value="Responsible Location" />
+      <item value="可响应位置" />
+      <item value="Execute Location" />
+      <item value="By Start Params" />
+      <item value="From Android" />
       <item value="Ten Thousand Limit" />
       <item value="万" />
       <item value="unit" />
@@ -38,29 +55,13 @@
       <item value="mast Delay" />
       <item value="Memberwise Clone" />
       <item value="历史" />
-      <item value="Histroy" />
-      <item value="Enter Nav Route Message" />
-      <item value="Router Enter Nav Msg" />
-      <item value="Enter Nav Msg Handler" />
-      <item value="关机" />
-      <item value="因为" />
-      <item value="Bluetooth Disconnect" />
-      <item value="A Cross" />
-      <item value="Is Wait Immerse" />
-      <item value="Three Text" />
-      <item value="喜爱" />
-      <item value="daily" />
-      <item value="Fields whose state is saved in conjunction with text parsing and word wrapping." />
-      <item value="character To Substitute" />
-      <item value="Preload" />
-      <item value="Generate Mip Maps" />
-      <item value="固定" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="363" />
-        <entry key="ENGLISH" value="364" />
+        <entry key="CHINESE" value="375" />
+        <entry key="ENGLISH" value="375" />
         <entry key="FRENCH" value="1" />
+        <entry key="CATALAN" value="1" />
         <entry key="HINDI" value="2" />
       </map>
     </option>
