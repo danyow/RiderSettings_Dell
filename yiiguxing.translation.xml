@@ -5,6 +5,15 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Check Exist Violation" />
+      <item value="Check Both Exist Violation" />
+      <item value="Check Both Is Violation" />
+      <item value="之前的" />
+      <item value="最新的" />
+      <item value="Check Both Not Violation" />
+      <item value="Could" />
+      <item value="Check Cur Could Violation" />
+      <item value="Check Can Violation" />
       <item value="Violation" />
       <item value="有冲突" />
       <item value="Left Curly Bracket" />
@@ -46,20 +55,11 @@
       <item value="Visible Image" />
       <item value="On Became Invisible" />
       <item value="Subscribe" />
-      <item value="Variable Setting" />
-      <item value="变量" />
-      <item value="跳过" />
-      <item value="Discover Daily" />
-      <item value="警告&#10;警告" />
-      <item value="dont Execute" />
-      <item value="donot Excute" />
-      <item value="is Guided" />
-      <item value="必须延时" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="377" />
-        <entry key="ENGLISH" value="378" />
+        <entry key="CHINESE" value="385" />
+        <entry key="ENGLISH" value="386" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="HINDI" value="2" />
