@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Check Both Is In Violations" />
       <item value="no Violations" />
       <item value="violations" />
       <item value="dreamer Mode" />
@@ -54,12 +55,11 @@
       <item value="modified Url" />
       <item value="拼接" />
       <item value="Prefix" />
-      <item value="Peek" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="389" />
-        <entry key="ENGLISH" value="390" />
+        <entry key="CHINESE" value="390" />
+        <entry key="ENGLISH" value="391" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="HINDI" value="2" />
