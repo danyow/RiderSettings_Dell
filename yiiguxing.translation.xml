@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Gesture Love" />
+      <item value="Gesture Finger Head" />
       <item value="Route" />
       <item value="Route Type" />
       <item value="Check Both Is In Violations" />
@@ -53,13 +55,11 @@
       <item value="reduced Resolution" />
       <item value="Terminate" />
       <item value="Success" />
-      <item value="to ensure GL call has gone through" />
-      <item value="modified Url" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="392" />
-        <entry key="ENGLISH" value="393" />
+        <entry key="CHINESE" value="394" />
+        <entry key="ENGLISH" value="395" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="HINDI" value="2" />
