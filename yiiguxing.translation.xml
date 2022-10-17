@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Discard" />
       <item value="Gesture Love" />
       <item value="Gesture Finger Head" />
       <item value="Route" />
@@ -54,12 +55,11 @@
       <item value="Compress to the PNG format. PNG is lossless, so quality is ignored." />
       <item value="reduced Resolution" />
       <item value="Terminate" />
-      <item value="Success" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="394" />
-        <entry key="ENGLISH" value="395" />
+        <entry key="CHINESE" value="395" />
+        <entry key="ENGLISH" value="396" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="HINDI" value="2" />
