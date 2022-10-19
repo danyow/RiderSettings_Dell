@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Find Could Conflict Router" />
+      <item value="Conflicting" />
+      <item value="冲突行为" />
+      <item value="Competitive action" />
+      <item value="Competitive" />
+      <item value="竞争行为" />
+      <item value="violation" />
       <item value="abstract" />
       <item value="virtual" />
       <item value="_is Guiding" />
@@ -48,18 +55,11 @@
       <item value="Execute Location" />
       <item value="By Start Params" />
       <item value="From Android" />
-      <item value="Ten Thousand Limit" />
-      <item value="万" />
-      <item value="unit" />
-      <item value="center Scale" />
-      <item value="正常" />
-      <item value="粗体" />
-      <item value="Left Bracket" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="398" />
-        <entry key="ENGLISH" value="399" />
+        <entry key="CHINESE" value="403" />
+        <entry key="ENGLISH" value="404" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="HINDI" value="2" />
@@ -67,7 +67,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1665565651428" />
+    <option name="lastTrimTime" value="1666150222793" />
   </component>
   <component name="Settings">
     <option name="autoPlayTTS" value="true" />
