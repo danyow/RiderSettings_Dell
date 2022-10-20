@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Mono Singleton" />
       <item value="Recovery Menu" />
       <item value="is Hidden" />
       <item value="Find Could Conflict Router" />
@@ -54,12 +55,11 @@
       <item value="除了" />
       <item value="Responsible Location" />
       <item value="可响应位置" />
-      <item value="Execute Location" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="405" />
-        <entry key="ENGLISH" value="406" />
+        <entry key="CHINESE" value="406" />
+        <entry key="ENGLISH" value="407" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="HINDI" value="2" />
