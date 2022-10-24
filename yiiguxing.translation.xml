@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Hz Flow Dormancy View" />
       <item value="Check Operate Can Be Replace" />
       <item value="Determine Save" />
       <item value="Del Rarely Used Res" />
@@ -54,12 +55,11 @@
       <item value="废弃" />
       <item value="Globals" />
       <item value="Globles" />
-      <item value="Globle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="410" />
-        <entry key="ENGLISH" value="411" />
+        <entry key="CHINESE" value="411" />
+        <entry key="ENGLISH" value="412" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="HINDI" value="2" />
@@ -67,7 +67,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1666150222793" />
+    <option name="lastTrimTime" value="1666600676125" />
   </component>
   <component name="Settings">
     <option name="autoPlayTTS" value="true" />
