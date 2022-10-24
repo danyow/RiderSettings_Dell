@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="性能" />
       <item value="atmosphere Style" />
       <item value="Hz Flow Dormancy View" />
       <item value="Check Operate Can Be Replace" />
@@ -54,11 +55,10 @@
       <item value="Discards" />
       <item value="弃用" />
       <item value="废弃" />
-      <item value="Globals" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="413" />
+        <entry key="CHINESE" value="414" />
         <entry key="ENGLISH" value="414" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
