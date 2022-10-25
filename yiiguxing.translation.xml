@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="接收" />
+      <item value="is Background Receiver" />
       <item value="Backstage" />
       <item value="后台时" />
       <item value="is Background" />
@@ -53,13 +55,11 @@
       <item value="Left Curly Bracket" />
       <item value="括号" />
       <item value="分析器" />
-      <item value="运行器" />
-      <item value="执行器" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="416" />
-        <entry key="ENGLISH" value="417" />
+        <entry key="CHINESE" value="418" />
+        <entry key="ENGLISH" value="418" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="HINDI" value="2" />
