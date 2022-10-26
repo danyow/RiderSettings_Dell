@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Stop Here" />
       <item value="未完成" />
       <item value="Fallback" />
       <item value="Play Fall" />
@@ -54,12 +55,11 @@
       <item value="Check Both Not Violation" />
       <item value="Could" />
       <item value="Check Cur Could Violation" />
-      <item value="Check Can Violation" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="422" />
-        <entry key="ENGLISH" value="422" />
+        <entry key="ENGLISH" value="423" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="HINDI" value="2" />
