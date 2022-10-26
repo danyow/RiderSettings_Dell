@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="未完成" />
+      <item value="Fallback" />
+      <item value="Play Fall" />
+      <item value="Play Fallback" />
       <item value="Returns true while the user holds down the key identified by the key KeyCode enum parameter" />
       <item value="接收" />
       <item value="is Background Receiver" />
@@ -51,15 +55,11 @@
       <item value="Could" />
       <item value="Check Cur Could Violation" />
       <item value="Check Can Violation" />
-      <item value="Violation" />
-      <item value="有冲突" />
-      <item value="Left Curly Bracket" />
-      <item value="括号" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="418" />
-        <entry key="ENGLISH" value="419" />
+        <entry key="CHINESE" value="422" />
+        <entry key="ENGLISH" value="422" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="HINDI" value="2" />
