@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Is Unity Unfocus" />
+      <item value="Is Unity Activity" />
       <item value="Get Invocation List" />
       <item value="Pause" />
       <item value="Stop Here" />
@@ -53,13 +55,11 @@
       <item value="Check Both Exist Violation" />
       <item value="Check Both Is Violation" />
       <item value="之前的" />
-      <item value="最新的" />
-      <item value="Check Both Not Violation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="425" />
-        <entry key="ENGLISH" value="426" />
+        <entry key="CHINESE" value="427" />
+        <entry key="ENGLISH" value="428" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="HINDI" value="2" />
