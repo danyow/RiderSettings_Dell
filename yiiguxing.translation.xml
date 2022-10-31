@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Dynamic Trend LRC" />
+      <item value="Flowing Illusion" />
       <item value="Is Unity Unfocus" />
       <item value="Is Unity Activity" />
       <item value="Get Invocation List" />
@@ -53,13 +55,11 @@
       <item value="Start Execute" />
       <item value="Check Exist Violation" />
       <item value="Check Both Exist Violation" />
-      <item value="Check Both Is Violation" />
-      <item value="之前的" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="427" />
-        <entry key="ENGLISH" value="428" />
+        <entry key="CHINESE" value="429" />
+        <entry key="ENGLISH" value="430" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="HINDI" value="2" />
@@ -67,7 +67,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1666600676125" />
+    <option name="lastTrimTime" value="1667202649917" />
   </component>
   <component name="Settings">
     <option name="autoPlayTTS" value="true" />
