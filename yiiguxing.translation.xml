@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="动态" />
+      <item value="动感" />
       <item value="Dynamic Trend LRC" />
       <item value="Flowing Illusion" />
       <item value="Is Unity Unfocus" />
@@ -53,13 +55,11 @@
       <item value="violations" />
       <item value="dreamer Mode" />
       <item value="Start Execute" />
-      <item value="Check Exist Violation" />
-      <item value="Check Both Exist Violation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="429" />
-        <entry key="ENGLISH" value="430" />
+        <entry key="CHINESE" value="431" />
+        <entry key="ENGLISH" value="431" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="HINDI" value="2" />
