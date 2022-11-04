@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="development" />
       <item value="condition String" />
       <item value="renderer" />
       <item value="render" />
@@ -54,12 +55,11 @@
       <item value="Find Could Conflict Router" />
       <item value="Conflicting" />
       <item value="冲突行为" />
-      <item value="Competitive action" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="444" />
-        <entry key="ENGLISH" value="445" />
+        <entry key="CHINESE" value="445" />
+        <entry key="ENGLISH" value="446" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="ITALIAN" value="1" />
