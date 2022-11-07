@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1381" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Insert Then Pop" />
       <item value="limit Count" />
       <item value="The safe coroutine." />
       <item value="Starts the safe coroutine." />
@@ -54,12 +55,11 @@
       <item value="k Late Night" />
       <item value="late Night" />
       <item value="早晨&#10;中午&#10;晚上&#10;深夜" />
-      <item value="dormancy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="487" />
-        <entry key="ENGLISH" value="488" />
+        <entry key="CHINESE" value="488" />
+        <entry key="ENGLISH" value="489" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="ITALIAN" value="1" />
