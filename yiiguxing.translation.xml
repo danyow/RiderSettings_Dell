@@ -5,6 +5,14 @@
     <option name="newTranslationDialogY" value="1381" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="State for coroutines in which an exception was thrown." />
+      <item value="State for terminated coroutines which was stopped through a method call on the coroutine." />
+      <item value="State for regularly finished coroutines." />
+      <item value="State for paused coroutines." />
+      <item value="State for executing coroutines." />
+      <item value="Internal state to fill the gap between the creation and the running." />
+      <item value="Coroutine" />
+      <item value="Safe Coroutine State" />
       <item value="priority" />
       <item value="优先级" />
       <item value="switch Redirect Writes To Host Mount" />
@@ -47,19 +55,11 @@
       <item value="Is Unity Activity" />
       <item value="Get Invocation List" />
       <item value="Pause" />
-      <item value="Stop Here" />
-      <item value="未完成" />
-      <item value="Fallback" />
-      <item value="Play Fall" />
-      <item value="Play Fallback" />
-      <item value="Returns true while the user holds down the key identified by the key KeyCode enum parameter" />
-      <item value="接收" />
-      <item value="is Background Receiver" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="465" />
-        <entry key="ENGLISH" value="466" />
+        <entry key="CHINESE" value="476" />
+        <entry key="ENGLISH" value="477" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="ITALIAN" value="1" />
