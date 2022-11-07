@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="596" />
-    <option name="newTranslationDialogX" value="1654" />
-    <option name="newTranslationDialogY" value="627" />
+    <option name="newTranslationDialogWidth" value="594" />
+    <option name="newTranslationDialogX" value="-1425" />
+    <option name="newTranslationDialogY" value="1381" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="优先级" />
       <item value="switch Redirect Writes To Host Mount" />
       <item value="switch Enable Debug Pad" />
       <item value="switch Enable Heap Inspector" />
@@ -54,7 +55,6 @@
       <item value="接收" />
       <item value="is Background Receiver" />
       <item value="Backstage" />
-      <item value="后台时" />
     </histories>
     <option name="languageScores">
       <map>
