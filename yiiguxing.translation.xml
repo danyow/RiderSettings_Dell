@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1381" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Create Async" />
       <item value="Performance" />
       <item value="record" />
       <item value="cost" />
@@ -54,12 +55,11 @@
       <item value="崩溃" />
       <item value="carch" />
       <item value="carsh" />
-      <item value="&gt;Create a UnityWebRequest intended to download an image via HTTP GET and create a Texture based on the retrieved data." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="494" />
-        <entry key="ENGLISH" value="495" />
+        <entry key="CHINESE" value="495" />
+        <entry key="ENGLISH" value="496" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="ITALIAN" value="1" />
