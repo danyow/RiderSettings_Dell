@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1381" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="allow Destroying Assets" />
       <item value="Down Load File Mark" />
       <item value="Get Soft" />
       <item value="Soft" />
@@ -54,12 +55,11 @@
       <item value="development" />
       <item value="condition String" />
       <item value="renderer" />
-      <item value="render" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="499" />
-        <entry key="ENGLISH" value="500" />
+        <entry key="CHINESE" value="500" />
+        <entry key="ENGLISH" value="501" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="ITALIAN" value="1" />
