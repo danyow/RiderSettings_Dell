@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1381" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Down Load File Mark" />
       <item value="Get Soft" />
       <item value="Soft" />
       <item value="Synchronization Context" />
@@ -54,12 +55,11 @@
       <item value="condition String" />
       <item value="renderer" />
       <item value="render" />
-      <item value="Switch Zone While Show" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="498" />
-        <entry key="ENGLISH" value="499" />
+        <entry key="CHINESE" value="499" />
+        <entry key="ENGLISH" value="500" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="ITALIAN" value="1" />
