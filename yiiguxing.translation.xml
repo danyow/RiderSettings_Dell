@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="1381" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="sequence" />
+      <item value="WZ Data Convert" />
       <item value="删除" />
       <item value="Waits until next fixed frame rate update function. See Also: MonoBehaviour.FixedUpdate" />
       <item value="Waits until the end of the frame after Unity has rendererd every Camera and GUI, just before displaying the frame on screen" />
@@ -53,13 +55,11 @@
       <item value="install In Build Folder" />
       <item value="wait For Managed Debugger" />
       <item value="Enable source-level debuggers to connect." />
-      <item value="build App Bundle" />
-      <item value="_is Placeholder" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="503" />
-        <entry key="ENGLISH" value="503" />
+        <entry key="CHINESE" value="504" />
+        <entry key="ENGLISH" value="505" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="ITALIAN" value="1" />
