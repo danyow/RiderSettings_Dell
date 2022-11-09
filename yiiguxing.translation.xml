@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1381" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="删除" />
       <item value="Waits until next fixed frame rate update function. See Also: MonoBehaviour.FixedUpdate" />
       <item value="Waits until the end of the frame after Unity has rendererd every Camera and GUI, just before displaying the frame on screen" />
       <item value="allow Destroying Assets" />
@@ -54,11 +55,10 @@
       <item value="Enable source-level debuggers to connect." />
       <item value="build App Bundle" />
       <item value="_is Placeholder" />
-      <item value="development" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="502" />
+        <entry key="CHINESE" value="503" />
         <entry key="ENGLISH" value="503" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
