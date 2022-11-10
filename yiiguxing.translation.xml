@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1381" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="无动作" />
       <item value="Arwen Photo Frame" />
       <item value="Arwen Phtoto Frame" />
       <item value="sequence" />
@@ -54,11 +55,10 @@
       <item value="switch Create Solution File" />
       <item value="switch Create Rom File" />
       <item value="Place the built player in the build folder." />
-      <item value="install In Build Folder" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="506" />
+        <entry key="CHINESE" value="507" />
         <entry key="ENGLISH" value="507" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
