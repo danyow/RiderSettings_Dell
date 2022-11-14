@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1381" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="隐藏中" />
       <item value="重新排队" />
       <item value="Requeue" />
       <item value="Queue" />
@@ -54,12 +55,11 @@
       <item value="State for regularly finished coroutines." />
       <item value="State for paused coroutines." />
       <item value="State for executing coroutines." />
-      <item value="Internal state to fill the gap between the creation and the running." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="515" />
-        <entry key="ENGLISH" value="515" />
+        <entry key="CHINESE" value="516" />
+        <entry key="ENGLISH" value="516" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
