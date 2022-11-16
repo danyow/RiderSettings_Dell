@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1381" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="启动" />
       <item value="Partial Fade Out" />
       <item value="总是" />
       <item value="_alway Active Component" />
@@ -54,7 +55,6 @@
       <item value="The thrown exception." />
       <item value="Safe coroutine to overcome deficiencies in Unity's coroutines." />
       <item value="State for coroutines in which an exception was thrown." />
-      <item value="State for terminated coroutines which was stopped through a method call on the coroutine." />
     </histories>
     <option name="languageScores">
       <map>
