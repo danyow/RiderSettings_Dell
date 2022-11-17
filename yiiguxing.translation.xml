@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="1381" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="之前" />
+      <item value="Route" />
       <item value="启动" />
       <item value="Partial Fade Out" />
       <item value="总是" />
@@ -53,13 +55,11 @@
       <item value="encapsulated Safe Coroutine" />
       <item value="further" />
       <item value="The thrown exception." />
-      <item value="Safe coroutine to overcome deficiencies in Unity's coroutines." />
-      <item value="State for coroutines in which an exception was thrown." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="517" />
-        <entry key="ENGLISH" value="518" />
+        <entry key="CHINESE" value="519" />
+        <entry key="ENGLISH" value="519" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
@@ -70,7 +70,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1668087527316" />
+    <option name="lastTrimTime" value="1668674280967" />
   </component>
   <component name="Settings">
     <option name="autoPlayTTS" value="true" />
