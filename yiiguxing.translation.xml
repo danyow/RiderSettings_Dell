@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="1381" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="List Pool" />
+      <item value="Load Image Url With Modular" />
+      <item value="模块" />
+      <item value="Load Modular Image Url" />
       <item value="之前" />
       <item value="Route" />
       <item value="启动" />
@@ -51,15 +55,11 @@
       <item value="The safe coroutine." />
       <item value="Starts the safe coroutine." />
       <item value="wrapped Coroutine" />
-      <item value="Safe coroutine to overcome deficiencies in Unity's coroutines with support for return values." />
-      <item value="encapsulated Safe Coroutine" />
-      <item value="further" />
-      <item value="The thrown exception." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="519" />
-        <entry key="ENGLISH" value="519" />
+        <entry key="CHINESE" value="521" />
+        <entry key="ENGLISH" value="522" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
