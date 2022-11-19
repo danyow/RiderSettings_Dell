@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1381" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Hudie" />
       <item value="打断" />
       <item value="Initializing" />
       <item value="Destroy" />
@@ -54,7 +55,6 @@
       <item value="Soft" />
       <item value="Synchronization Context" />
       <item value="Create Async" />
-      <item value="Performance" />
     </histories>
     <option name="languageScores">
       <map>
@@ -63,6 +63,7 @@
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
+        <entry key="MALAY" value="1" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="HINDI" value="2" />
