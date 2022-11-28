@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="1381" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Insert Line Breaks" />
       <item value="Elapsed" />
       <item value="play Confirm Callback" />
       <item value="Is Duplicates" />
@@ -54,12 +55,11 @@
       <item value="Waits until the end of the frame after Unity has rendererd every Camera and GUI, just before displaying the frame on screen" />
       <item value="allow Destroying Assets" />
       <item value="Down Load File Mark" />
-      <item value="Get Soft" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="534" />
-        <entry key="ENGLISH" value="535" />
+        <entry key="CHINESE" value="535" />
+        <entry key="ENGLISH" value="536" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
@@ -71,7 +71,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1669110489676" />
+    <option name="lastTrimTime" value="1669601905239" />
   </component>
   <component name="Settings">
     <option name="autoPlayTTS" value="true" />
