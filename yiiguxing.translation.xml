@@ -5,6 +5,16 @@
     <option name="newTranslationDialogY" value="1381" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Custom Handle Video Playback Events" />
+      <item value="Forwarding Video Playback Events" />
+      <item value="Forwarding" />
+      <item value="转发" />
+      <item value="Routing Video Playback Events" />
+      <item value="Forwarding video playback events" />
+      <item value="转发视频播放事件" />
+      <item value="Is Custom Next Play" />
+      <item value="Diy Audio Manager" />
+      <item value="_sprite" />
       <item value="Insert Line Breaks" />
       <item value="Elapsed" />
       <item value="play Confirm Callback" />
@@ -45,21 +55,11 @@
       <item value="准备前数据" />
       <item value="Notify Component Change" />
       <item value="没播放过" />
-      <item value="无动作" />
-      <item value="Arwen Photo Frame" />
-      <item value="Arwen Phtoto Frame" />
-      <item value="sequence" />
-      <item value="WZ Data Convert" />
-      <item value="删除" />
-      <item value="Waits until next fixed frame rate update function. See Also: MonoBehaviour.FixedUpdate" />
-      <item value="Waits until the end of the frame after Unity has rendererd every Camera and GUI, just before displaying the frame on screen" />
-      <item value="allow Destroying Assets" />
-      <item value="Down Load File Mark" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="535" />
-        <entry key="ENGLISH" value="536" />
+        <entry key="CHINESE" value="543" />
+        <entry key="ENGLISH" value="544" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
