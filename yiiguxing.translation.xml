@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="1381" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Overdue" />
+      <item value="Dispose Task" />
       <item value="Custom Handle Video Playback Events" />
       <item value="Forwarding Video Playback Events" />
       <item value="Forwarding" />
@@ -53,13 +55,11 @@
       <item value="Component Creator" />
       <item value="preparation" />
       <item value="准备前数据" />
-      <item value="Notify Component Change" />
-      <item value="没播放过" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="543" />
-        <entry key="ENGLISH" value="544" />
+        <entry key="CHINESE" value="545" />
+        <entry key="ENGLISH" value="546" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
