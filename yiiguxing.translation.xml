@@ -86,4 +86,18 @@
     <option name="showReplacementActionInContextMenu" value="true" />
     <option name="translator" value="BAIDU" />
   </component>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1669788945151" />
+  </component>
+  <component name="Translation.States">
+    <histories>
+      <item value="Creates a UnityWebRequest configured to send a HTTP HEAD request." />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="1" />
+      </map>
+    </option>
+  </component>
 </application>
