@@ -87,10 +87,11 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1670221972612" />
+    <option name="lastTrimTime" value="1670932248465" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Alt Directory Separator Char" />
       <item value="On Update Internal" />
       <item value="processor Count" />
       <item value="Processor Count" />
