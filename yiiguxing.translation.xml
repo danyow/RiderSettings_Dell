@@ -87,10 +87,12 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1670932248465" />
+    <option name="lastTrimTime" value="1672735196360" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="film Anim Event" />
+      <item value="zone Animation Event" />
       <item value="status" />
       <item value="in Queue" />
       <item value="内存" />
@@ -105,8 +107,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6" />
-        <entry key="ENGLISH" value="7" />
+        <entry key="CHINESE" value="8" />
+        <entry key="ENGLISH" value="9" />
       </map>
     </option>
   </component>
